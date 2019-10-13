@@ -1,0 +1,875 @@
+First sequence name,Official sequence name,Sampling year,Soil data,Coodinates (d.),Elevation (m),Legume species,Internal primers,External primers,Internal+external,InternalAndExternalPrimers,Clade,Cases
+nifD17-2-26,A-17-2-26,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Aeschynomene,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,Burkholderiagroup,1
+nifD17-9-26,B-17-9-26,2017,B,"S30° 2'43.10""S /W51° 1'21.90""",55,Acacia,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,I,1
+nifD17-9-34,B-17-9-34,2017,B,"S30° 2'43.10""S /W51° 1'21.90""",55,Acacia,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,I,1
+nifD17-9-38,B-17-9-38,2017,B,"S30° 2'43.10""S /W51° 1'21.90""",55,Acacia,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,I,1
+nifD17-9-55,B-17-9-55,2017,B,"S30° 2'43.10""S /W51° 1'21.90""",55,Acacia,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,I,1
+nifD17-9-56,B-17-9-56,2017,B,"S30° 2'43.10""S /W51° 1'21.90""",55,Acacia,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,I,1
+nifD17-10-4,C-17-10-4,2017,C,"S30° 2'43.94""S /W51° 1'27.70""",48,Acacia,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,I,1
+nifD17-10-6,C-17-10-6,2017,C,"S30° 2'43.94""S /W51° 1'27.70""",48,Acacia,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,I,1
+nifD17-10-10,C-17-10-10,2017,C,"S30° 2'43.94""S /W51° 1'27.70""",48,Acacia,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,I,1
+nifD17-10-23,C-17-10-23,2017,C,"S30° 2'43.94""S /W51° 1'27.70""",48,Acacia,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,I,1
+nifD17-10-42,C-17-10-42,2017,C,"S30° 2'43.94""S /W51° 1'27.70""",48,Acacia,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,I,1
+nifD17-10-49,C-17-10-49,2017,C,"S30° 2'43.94""S /W51° 1'27.70""",48,Acacia,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,I,1
+nifD17-2-2,A-17-2-2,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Aeschynomene,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,I,1
+nifD17-2-8,A-17-2-8,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Aeschynomene,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,I,1
+nifD17-2-10,A-17-2-10,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Aeschynomene,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,I,1
+nifD17-2-55,A-17-2-55,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Aeschynomene,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,I,1
+nifD17-4-7,A-17-4-7,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Crotalaria,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,I,1
+nifD17-4-31,A-17-4-31,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Crotalaria,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,I,1
+nifD17-4-35,A-17-4-35,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Crotalaria,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,I,1
+nifD17-1-2,A-17-1-2,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Desmodium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,I,1
+nifD17-1-25,A-17-1-25,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Desmodium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,I,1
+nifD17-1-29,A-17-1-29,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Desmodium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,I,1
+nifD17-1-55,A-17-1-55,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Desmodium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,I,1
+nifd17-3-39,A-17-3-39,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Desmodium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,I,1
+nifD17-5-4,A-17-5-4,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Desmodium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,I,1
+nifD17-5-21,A-17-5-21,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Desmodium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,I,1
+nifD17-5-22,A-17-5-22,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Desmodium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,I,1
+nifD17-5-38,A-17-5-38,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Desmodium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,I,1
+nifD17-5-47,A-17-5-47,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Desmodium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,I,1
+nifD17-7-29,A-17-7-29,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Macroptilium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,I,1
+nifD17-7-35,A-17-7-35,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Macroptilium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,I,1
+nifD17-6-4,A-17-6-4,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Rhynchosia,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,I,1
+nifD17-6-9,A-17-6-9,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Rhynchosia,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,I,1
+nifD17-6-28,A-17-6-28,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Rhynchosia,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,I,1
+nifD17-8-24,B-17-8-24,2017,B,"S30° 2'43.10""S /W51° 1'21.90""",55,Rhynchosia,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,I,1
+nifD17-8-37,B-17-8-37,2017,B,"S30° 2'43.10""S /W51° 1'21.90""",55,Rhynchosia,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,I,1
+nifD17-10-51,C-17-10-51,2017,C,"S30° 2'43.94""S /W51° 1'27.70""",48,Acacia,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3A),1
+nifD17-2-12,A-17-2-12,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Aeschynomene,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3A),1
+nifD17-4-6,A-17-4-6,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Crotalaria,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3A),1
+nifD17-4-8,A-17-4-8,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Crotalaria,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3A),1
+nifD17-4-13,A-17-4-13,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Crotalaria,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3A),1
+nifD17-4-22,A-17-4-22,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Crotalaria,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3A),1
+nifD17-4-34,A-17-4-34,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Crotalaria,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3A),1
+nifD17-4-40,A-17-4-40,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Crotalaria,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3A),1
+nifD17-1-8,A-17-1-8,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Desmodium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3A),1
+nifD17-1-10,A-17-1-10,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Desmodium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3A),1
+nifD17-1-11,A-17-1-11,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Desmodium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3A),1
+nifD17-1-43,A-17-1-43,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Desmodium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3A),1
+nifd17-3-16,A-17-3-16,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Desmodium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3A),1
+nifd17-3-47,A-17-3-47,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Desmodium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3A),1
+nifd17-3-56,A-17-3-56,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Desmodium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3A),1
+nifD17-5-12,A-17-5-12,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Desmodium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3A),1
+nifD17-5-44,A-17-5-44,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Desmodium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3A),1
+nifD17-7-10,A-17-7-10,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Macroptilium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3A),1
+nifD17-7-11,A-17-7-11,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Macroptilium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3A),1
+nifD17-7-23,A-17-7-23,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Macroptilium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3A),1
+nifD17-6-19,A-17-6-19,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Rhynchosia,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3A),1
+nifD17-6-26,A-17-6-26,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Rhynchosia,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3A),1
+nifD17-8-25,B-17-8-25,2017,B,"S30° 2'43.10""S /W51° 1'21.90""",55,Rhynchosia,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3A),1
+nifD17-8-48,B-17-8-48,2017,B,"S30° 2'43.10""S /W51° 1'21.90""",55,Rhynchosia,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3A),1
+nifD17-8-52,B-17-8-52,2017,B,"S30° 2'43.10""S /W51° 1'21.90""",55,Rhynchosia,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3A),1
+nifD17-8-60,B-17-8-60,2017,B,"S30° 2'43.10""S /W51° 1'21.90""",55,Rhynchosia,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3A),1
+nifD17-1-59,A-17-1-59,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Desmodium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3C),1
+nifD17-9-1,B-17-9-1,2017,B,"S30° 2'43.10""S /W51° 1'21.90""",55,Acacia,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifD17-9-2,B-17-9-2,2017,B,"S30° 2'43.10""S /W51° 1'21.90""",55,Acacia,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifD17-9-3,B-17-9-3,2017,B,"S30° 2'43.10""S /W51° 1'21.90""",55,Acacia,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifD17-9-6,B-17-9-6,2017,B,"S30° 2'43.10""S /W51° 1'21.90""",55,Acacia,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifD17-9-8,B-17-9-8,2017,B,"S30° 2'43.10""S /W51° 1'21.90""",55,Acacia,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifD17-9-9,B-17-9-9,2017,B,"S30° 2'43.10""S /W51° 1'21.90""",55,Acacia,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifD17-9-10,B-17-9-10,2017,B,"S30° 2'43.10""S /W51° 1'21.90""",55,Acacia,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifD17-9-11,B-17-9-11,2017,B,"S30° 2'43.10""S /W51° 1'21.90""",55,Acacia,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifD17-9-15,B-17-9-15,2017,B,"S30° 2'43.10""S /W51° 1'21.90""",55,Acacia,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifD17-9-16,B-17-9-16,2017,B,"S30° 2'43.10""S /W51° 1'21.90""",55,Acacia,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifD17-9-17,B-17-9-17,2017,B,"S30° 2'43.10""S /W51° 1'21.90""",55,Acacia,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifD17-9-19,B-17-9-19,2017,B,"S30° 2'43.10""S /W51° 1'21.90""",55,Acacia,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifD17-9-20,B-17-9-20,2017,B,"S30° 2'43.10""S /W51° 1'21.90""",55,Acacia,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifD17-9-22,B-17-9-22,2017,B,"S30° 2'43.10""S /W51° 1'21.90""",55,Acacia,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifD17-9-24,B-17-9-24,2017,B,"S30° 2'43.10""S /W51° 1'21.90""",55,Acacia,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifD17-9-28,B-17-9-28,2017,B,"S30° 2'43.10""S /W51° 1'21.90""",55,Acacia,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifD17-9-29,B-17-9-29,2017,B,"S30° 2'43.10""S /W51° 1'21.90""",55,Acacia,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifD17-9-31,B-17-9-31,2017,B,"S30° 2'43.10""S /W51° 1'21.90""",55,Acacia,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifD17-9-32,B-17-9-32,2017,B,"S30° 2'43.10""S /W51° 1'21.90""",55,Acacia,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifD17-9-33,B-17-9-33,2017,B,"S30° 2'43.10""S /W51° 1'21.90""",55,Acacia,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifD17-9-35,B-17-9-35,2017,B,"S30° 2'43.10""S /W51° 1'21.90""",55,Acacia,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifD17-9-40,B-17-9-40,2017,B,"S30° 2'43.10""S /W51° 1'21.90""",55,Acacia,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifD17-9-41,B-17-9-41,2017,B,"S30° 2'43.10""S /W51° 1'21.90""",55,Acacia,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifD17-9-45,B-17-9-45,2017,B,"S30° 2'43.10""S /W51° 1'21.90""",55,Acacia,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifD17-9-47,B-17-9-47,2017,B,"S30° 2'43.10""S /W51° 1'21.90""",55,Acacia,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifD17-9-49,B-17-9-49,2017,B,"S30° 2'43.10""S /W51° 1'21.90""",55,Acacia,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifD17-9-52,B-17-9-52,2017,B,"S30° 2'43.10""S /W51° 1'21.90""",55,Acacia,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifD17-9-53,B-17-9-53,2017,B,"S30° 2'43.10""S /W51° 1'21.90""",55,Acacia,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifD17-9-54,B-17-9-54,2017,B,"S30° 2'43.10""S /W51° 1'21.90""",55,Acacia,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifD17-9-58,B-17-9-58,2017,B,"S30° 2'43.10""S /W51° 1'21.90""",55,Acacia,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifD17-9-59,B-17-9-59,2017,B,"S30° 2'43.10""S /W51° 1'21.90""",55,Acacia,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifD17-10-1,C-17-10-1,2017,C,"S30° 2'43.94""S /W51° 1'27.70""",48,Acacia,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifD17-10-2,C-17-10-2,2017,C,"S30° 2'43.94""S /W51° 1'27.70""",48,Acacia,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifD17-10-3,C-17-10-3,2017,C,"S30° 2'43.94""S /W51° 1'27.70""",48,Acacia,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifD17-10-7,C-17-10-7,2017,C,"S30° 2'43.94""S /W51° 1'27.70""",48,Acacia,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifD17-10-12,C-17-10-12,2017,C,"S30° 2'43.94""S /W51° 1'27.70""",48,Acacia,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifD17-10-16,C-17-10-16,2017,C,"S30° 2'43.94""S /W51° 1'27.70""",48,Acacia,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifD17-10-18,C-17-10-18,2017,C,"S30° 2'43.94""S /W51° 1'27.70""",48,Acacia,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifD17-10-24,C-17-10-24,2017,C,"S30° 2'43.94""S /W51° 1'27.70""",48,Acacia,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifD17-10-25,C-17-10-25,2017,C,"S30° 2'43.94""S /W51° 1'27.70""",48,Acacia,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifD17-10-26,C-17-10-26,2017,C,"S30° 2'43.94""S /W51° 1'27.70""",48,Acacia,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifD17-10-30,C-17-10-30,2017,C,"S30° 2'43.94""S /W51° 1'27.70""",48,Acacia,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifD17-10-33,C-17-10-33,2017,C,"S30° 2'43.94""S /W51° 1'27.70""",48,Acacia,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifD17-10-34,C-17-10-34,2017,C,"S30° 2'43.94""S /W51° 1'27.70""",48,Acacia,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifD17-10-35,C-17-10-35,2017,C,"S30° 2'43.94""S /W51° 1'27.70""",48,Acacia,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifD17-10-36,C-17-10-36,2017,C,"S30° 2'43.94""S /W51° 1'27.70""",48,Acacia,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifD17-10-38,C-17-10-38,2017,C,"S30° 2'43.94""S /W51° 1'27.70""",48,Acacia,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifD17-10-43,C-17-10-43,2017,C,"S30° 2'43.94""S /W51° 1'27.70""",48,Acacia,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifD17-10-44,C-17-10-44,2017,C,"S30° 2'43.94""S /W51° 1'27.70""",48,Acacia,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifD17-10-47,C-17-10-47,2017,C,"S30° 2'43.94""S /W51° 1'27.70""",48,Acacia,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifD17-10-48,C-17-10-48,2017,C,"S30° 2'43.94""S /W51° 1'27.70""",48,Acacia,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifD17-10-55,C-17-10-55,2017,C,"S30° 2'43.94""S /W51° 1'27.70""",48,Acacia,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifD17-10-57,C-17-10-57,2017,C,"S30° 2'43.94""S /W51° 1'27.70""",48,Acacia,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifD17-10-60,C-17-10-60,2017,C,"S30° 2'43.94""S /W51° 1'27.70""",48,Acacia,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifD17-9-1(1),C-17-9-1(1),2017,C,"S30° 2'43.94""S /W51° 1'27.70""",55,Acacia,nifDf5fo and nifDr1x ,nifDf5fis and nifDr1x,2,nifDf5fo and nifDr1x withnifDf5fis and nifDr1x,III(III.3D),1
+nifD17-9-2(1),C-17-9-2(1),2017,C,"S30° 2'43.94""S /W51° 1'27.70""",48,Acacia,nifDf5fo and nifDr1x ,nifDf5fis and nifDr1x,2,nifDf5fo and nifDr1x withnifDf5fis and nifDr1x,III(III.3D),1
+nifD17-9-7(1),C-17-9-7(1),2017,C,"S30° 2'43.94""S /W51° 1'27.70""",48,Acacia,nifDf5fo and nifDr1x ,nifDf5fis and nifDr1x,2,nifDf5fo and nifDr1x withnifDf5fis and nifDr1x,III(III.3D),1
+nifD17-9-2(2),C-17-9-2(2),2017,C,"S30° 2'43.94""S /W51° 1'27.70""",48,Acacia,nifDf7fo and nifDr1x ,nifDf7fi and nifDr1x,3,nifDf7fo and nifDr1x withnifDf7fi and nifDr1x,III(III.3D),1
+nifD17-2-9,A-17-2-9,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Aeschynomene,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifD17-2-14,A-17-2-14,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Aeschynomene,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifD17-2-16,A-17-2-16,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Aeschynomene,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifD17-2-19,A-17-2-19,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Aeschynomene,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifD17-2-20,A-17-2-20,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Aeschynomene,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifD17-2-25,A-17-2-25,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Aeschynomene,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifD17-2-29,A-17-2-29,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Aeschynomene,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifD17-2-30,A-17-2-30,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Aeschynomene,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifD17-2-34,A-17-2-34,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Aeschynomene,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifD17-2-36,A-17-2-36,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Aeschynomene,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifD17-2-58,A-17-2-58,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Aeschynomene,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifD17-2-4(1),A-17-2-4(1),2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Aeschynomene,nifDf5fo and nifDr1x ,nifDf5fis and nifDr1x,2,nifDf5fo and nifDr1x withnifDf5fis and nifDr1x,III(III.3D),1
+nifD17-2-7(1),A-17-2-7(1),2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Aeschynomene,nifDf5fo and nifDr1x ,nifDf5fis and nifDr1x,2,nifDf5fo and nifDr1x withnifDf5fis and nifDr1x,III(III.3D),1
+nifD17-2-10(1),A-17-2-10(1),2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Aeschynomene,nifDf5fo and nifDr1x ,nifDf5fis and nifDr1x,2,nifDf5fo and nifDr1x withnifDf5fis and nifDr1x,III(III.3D),1
+nifD17-2-3(2),A-17-2-3(2),2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Aeschynomene,nifDf7fo and nifDr1x ,nifDf7fi and nifDr1x,3,nifDf7fo and nifDr1x withnifDf7fi and nifDr1x,III(III.3D),1
+nifD17-2-6(2),A-17-2-6(2),2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Aeschynomene,nifDf7fo and nifDr1x ,nifDf7fi and nifDr1x,3,nifDf7fo and nifDr1x withnifDf7fi and nifDr1x,III(III.3D),1
+nifD17-2-8(2),A-17-2-8(2),2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Aeschynomene,nifDf7fo and nifDr1x ,nifDf7fi and nifDr1x,3,nifDf7fo and nifDr1x withnifDf7fi and nifDr1x,III(III.3D),1
+nifD17-4-1,A-17-4-1,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Crotalaria,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifD17-4-4,A-17-4-4,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Crotalaria,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifD17-4-10,A-17-4-10,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Crotalaria,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifD17-4-18,A-17-4-18,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Crotalaria,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifD17-4-38,A-17-4-38,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Crotalaria,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifD17-4-43,A-17-4-43,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Crotalaria,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifD17-4-46,A-17-4-46,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Crotalaria,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifD17-4-50,A-17-4-50,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Crotalaria,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifD17-4-2(1),A-17-4-2(1),2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Crotalaria,nifDf5fo and nifDr1x ,nifDf5fis and nifDr1x,2,nifDf5fo and nifDr1x withnifDf5fis and nifDr1x,III(III.3D),1
+nifD17-4-9(2),A-17-4-9(2),2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Crotalaria,nifDf7fo and nifDr1x ,nifDf7fi and nifDr1x,3,nifDf7fo and nifDr1x withnifDf7fi and nifDr1x,III(III.3D),1
+nifD17-4-9(3),A-17-4-9(3),2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Crotalaria,nifDfx1 and nifDr1x,nifDfx1 and nifDr1x,4,nifDfx1 and nifDr1xwithnifDfx1 and nifDr1x,III(III.3D),1
+nifD17-11-1,C-17-11-1,2017,C,"S30° 2'43.94""S /W51° 1'27.70""",48,Desmodium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifD17-11-2,C-17-11-2,2017,C,"S30° 2'43.94""S /W51° 1'27.70""",48,Desmodium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifD17-11-3,C-17-11-3,2017,C,"S30° 2'43.94""S /W51° 1'27.70""",48,Desmodium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifD17-11-4,C-17-11-4,2017,C,"S30° 2'43.94""S /W51° 1'27.70""",48,Desmodium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifD17-11-5,C-17-11-5,2017,C,"S30° 2'43.94""S /W51° 1'27.70""",48,Desmodium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifD17-11-6,C-17-11-6,2017,C,"S30° 2'43.94""S /W51° 1'27.70""",48,Desmodium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifD17-11-7,C-17-11-7,2017,C,"S30° 2'43.94""S /W51° 1'27.70""",48,Desmodium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifD17-11-10,C-17-11-10,2017,C,"S30° 2'43.94""S /W51° 1'27.70""",48,Desmodium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifD17-11-11,C-17-11-11,2017,C,"S30° 2'43.94""S /W51° 1'27.70""",48,Desmodium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifD17-11-12,C-17-11-12,2017,C,"S30° 2'43.94""S /W51° 1'27.70""",48,Desmodium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifD17-11-13,C-17-11-13,2017,C,"S30° 2'43.94""S /W51° 1'27.70""",48,Desmodium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifD17-11-14,C-17-11-14,2017,C,"S30° 2'43.94""S /W51° 1'27.70""",48,Desmodium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifD17-11-15,C-17-11-15,2017,C,"S30° 2'43.94""S /W51° 1'27.70""",48,Desmodium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifD17-11-16,C-17-11-16,2017,C,"S30° 2'43.94""S /W51° 1'27.70""",48,Desmodium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifD17-11-19,C-17-11-19,2017,C,"S30° 2'43.94""S /W51° 1'27.70""",48,Desmodium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifD17-11-20,C-17-11-20,2017,C,"S30° 2'43.94""S /W51° 1'27.70""",48,Desmodium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifD17-11-21,C-17-11-21,2017,C,"S30° 2'43.94""S /W51° 1'27.70""",48,Desmodium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifD17-11-22,C-17-11-22,2017,C,"S30° 2'43.94""S /W51° 1'27.70""",48,Desmodium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifD17-11-23,C-17-11-23,2017,C,"S30° 2'43.94""S /W51° 1'27.70""",48,Desmodium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifD17-11-24,C-17-11-24,2017,C,"S30° 2'43.94""S /W51° 1'27.70""",48,Desmodium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifD17-11-25,C-17-11-25,2017,C,"S30° 2'43.94""S /W51° 1'27.70""",48,Desmodium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifD17-11-26,C-17-11-26,2017,C,"S30° 2'43.94""S /W51° 1'27.70""",48,Desmodium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifD17-11-27,C-17-11-27,2017,C,"S30° 2'43.94""S /W51° 1'27.70""",48,Desmodium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifD17-11-28,C-17-11-28,2017,C,"S30° 2'43.94""S /W51° 1'27.70""",48,Desmodium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifD17-11-29,C-17-11-29,2017,C,"S30° 2'43.94""S /W51° 1'27.70""",48,Desmodium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifD17-11-30,C-17-11-30,2017,C,"S30° 2'43.94""S /W51° 1'27.70""",48,Desmodium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifD17-11-32,C-17-11-32,2017,C,"S30° 2'43.94""S /W51° 1'27.70""",48,Desmodium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifD17-11-33,C-17-11-33,2017,C,"S30° 2'43.94""S /W51° 1'27.70""",48,Desmodium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifD17-11-34,C-17-11-34,2017,C,"S30° 2'43.94""S /W51° 1'27.70""",48,Desmodium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifD17-11-35,C-17-11-35,2017,C,"S30° 2'43.94""S /W51° 1'27.70""",48,Desmodium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifD17-11-37,C-17-11-37,2017,C,"S30° 2'43.94""S /W51° 1'27.70""",48,Desmodium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifD17-11-38,C-17-11-38,2017,C,"S30° 2'43.94""S /W51° 1'27.70""",48,Desmodium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifD17-11-40,C-17-11-40,2017,C,"S30° 2'43.94""S /W51° 1'27.70""",48,Desmodium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifD17-11-41,C-17-11-41,2017,C,"S30° 2'43.94""S /W51° 1'27.70""",48,Desmodium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifD17-11-42,C-17-11-42,2017,C,"S30° 2'43.94""S /W51° 1'27.70""",48,Desmodium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifD17-11-43,C-17-11-43,2017,C,"S30° 2'43.94""S /W51° 1'27.70""",48,Desmodium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifD17-11-44,C-17-11-44,2017,C,"S30° 2'43.94""S /W51° 1'27.70""",48,Desmodium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifD17-11-45,C-17-11-45,2017,C,"S30° 2'43.94""S /W51° 1'27.70""",48,Desmodium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifD17-11-47,C-17-11-47,2017,C,"S30° 2'43.94""S /W51° 1'27.70""",48,Desmodium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifD17-11-48,C-17-11-48,2017,C,"S30° 2'43.94""S /W51° 1'27.70""",48,Desmodium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifD17-11-50,C-17-11-50,2017,C,"S30° 2'43.94""S /W51° 1'27.70""",48,Desmodium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifD17-11-51,C-17-11-51,2017,C,"S30° 2'43.94""S /W51° 1'27.70""",48,Desmodium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifD17-11-52,C-17-11-52,2017,C,"S30° 2'43.94""S /W51° 1'27.70""",48,Desmodium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifD17-11-53,C-17-11-53,2017,C,"S30° 2'43.94""S /W51° 1'27.70""",48,Desmodium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifD17-11-56,C-17-11-56,2017,C,"S30° 2'43.94""S /W51° 1'27.70""",48,Desmodium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifD17-11-58,C-17-11-58,2017,C,"S30° 2'43.94""S /W51° 1'27.70""",48,Desmodium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifD17-11-59,C-17-11-59,2017,C,"S30° 2'43.94""S /W51° 1'27.70""",48,Desmodium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifD17-11-60,C-17-11-60,2017,C,"S30° 2'43.94""S /W51° 1'27.70""",48,Desmodium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifD17-11-4(1),C-17-11-4(1),2017,C,"S30° 2'43.94""S /W51° 1'27.70""",48,Desmodium,nifDf5fo and nifDr1x ,nifDf5fis and nifDr1x,2,nifDf5fo and nifDr1x withnifDf5fis and nifDr1x,III(III.3D),1
+nifD17-11-8(2),C-17-11-8(2),2017,C,"S30° 2'43.94""S /W51° 1'27.70""",48,Desmodium,nifDf7fo and nifDr1x ,nifDf7fi and nifDr1x,3,nifDf7fo and nifDr1x withnifDf7fi and nifDr1x,III(III.3D),1
+nifD17-1-5,A-17-1-5,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Desmodium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifD17-1-9,A-17-1-9,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Desmodium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifD17-1-13,A-17-1-13,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Desmodium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifD17-1-15,A-17-1-15,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Desmodium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifD17-1-16,A-17-1-16,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Desmodium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifD17-1-17,A-17-1-17,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Desmodium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifD17-1-22,A-17-1-22,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Desmodium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifD17-1-26,A-17-1-26,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Desmodium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifD17-1-31,A-17-1-31,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Desmodium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifD17-1-33,A-17-1-33,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Desmodium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifD17-1-34,A-17-1-34,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Desmodium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifD17-1-35,A-17-1-35,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Desmodium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifD17-1-36,A-17-1-36,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Desmodium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifD17-1-39,A-17-1-39,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Desmodium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifD17-1-41,A-17-1-41,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Desmodium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifD17-1-42,A-17-1-42,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Desmodium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifD17-1-45,A-17-1-45,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Desmodium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifD17-1-51,A-17-1-51,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Desmodium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifD17-1-56,A-17-1-56,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Desmodium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifd17-3-2,A-17-3-2,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Desmodium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifd17-3-5,A-17-3-5,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Desmodium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifd17-3-7,A-17-3-7,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Desmodium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifd17-3-11,A-17-3-11,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Desmodium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifd17-3-14,A-17-3-14,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Desmodium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifd17-3-17,A-17-3-17,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Desmodium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifd17-3-18,A-17-3-18,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Desmodium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifd17-3-20,A-17-3-20,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Desmodium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifd17-3-25,A-17-3-25,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Desmodium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifd17-3-26,A-17-3-26,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Desmodium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifd17-3-28,A-17-3-28,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Desmodium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifd17-3-29,A-17-3-29,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Desmodium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifd17-3-30,A-17-3-30,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Desmodium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifd17-3-34,A-17-3-34,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Desmodium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifd17-3-35,A-17-3-35,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Desmodium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifd17-3-41,A-17-3-41,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Desmodium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifd17-3-44,A-17-3-44,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Desmodium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifd17-3-45,A-17-3-45,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Desmodium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifd17-3-49,A-17-3-49,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Desmodium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifd17-3-50,A-17-3-50,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Desmodium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifd17-3-57,A-17-3-57,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Desmodium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifD17-5-1,A-17-5-1,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Desmodium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifD17-5-10,A-17-5-10,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Desmodium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifD17-5-30,A-17-5-30,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Desmodium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifD17-5-42,A-17-5-42,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Desmodium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifD17-5-52,A-17-5-52,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Desmodium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifD17-5-56,A-17-5-56,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Desmodium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifD17-7-1,A-17-7-1,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Macroptilium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifD17-7-2,A-17-7-2,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Macroptilium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifD17-7-3,A-17-7-3,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Macroptilium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifD17-7-5,A-17-7-5,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Macroptilium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifD17-7-6,A-17-7-6,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Macroptilium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifD17-7-7,A-17-7-7,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Macroptilium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifD17-7-12,A-17-7-12,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Macroptilium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifD17-7-13,A-17-7-13,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Macroptilium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifD17-7-14,A-17-7-14,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Macroptilium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifD17-7-15,A-17-7-15,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Macroptilium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifD17-7-16,A-17-7-16,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Macroptilium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifD17-7-17,A-17-7-17,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Macroptilium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifD17-7-19,A-17-7-19,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Macroptilium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifD17-7-20,A-17-7-20,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Macroptilium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifD17-7-21,A-17-7-21,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Macroptilium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifD17-7-24,A-17-7-24,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Macroptilium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifD17-7-25,A-17-7-25,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Macroptilium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifD17-7-26,A-17-7-26,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Macroptilium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifD17-7-27,A-17-7-27,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Macroptilium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifD17-7-28,A-17-7-28,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Macroptilium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifD17-7-30,A-17-7-30,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Macroptilium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifD17-7-31,A-17-7-31,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Macroptilium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifD17-7-33,A-17-7-33,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Macroptilium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifD17-7-34,A-17-7-34,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Macroptilium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifD17-7-36,A-17-7-36,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Macroptilium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifD17-7-37,A-17-7-37,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Macroptilium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifD17-7-38,A-17-7-38,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Macroptilium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifD17-7-39,A-17-7-39,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Macroptilium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifD17-7-40,A-17-7-40,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Macroptilium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifD17-7-42,A-17-7-42,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Macroptilium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifD17-7-43,A-17-7-43,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Macroptilium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifD17-7-45,A-17-7-45,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Macroptilium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifD17-7-48,A-17-7-48,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Macroptilium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifD17-7-49,A-17-7-49,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Macroptilium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifD17-7-52,A-17-7-52,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Macroptilium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifD17-7-53,A-17-7-53,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Macroptilium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifD17-7-55,A-17-7-55,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Macroptilium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifD17-7-56,A-17-7-56,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Macroptilium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifD17-7-58,A-17-7-58,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Macroptilium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifD17-7-60,A-17-7-60,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Macroptilium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifD17-7-1(1),A-17-7-1(1),2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Macroptilium,nifDf5fo and nifDr1x ,nifDf5fis and nifDr1x,2,nifDf5fo and nifDr1x withnifDf5fis and nifDr1x,III(III.3D),1
+nifD17-7-4(1),A-17-7-4(1),2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Macroptilium,nifDf5fo and nifDr1x ,nifDf5fis and nifDr1x,2,nifDf5fo and nifDr1x withnifDf5fis and nifDr1x,III(III.3D),1
+nifD17-7-7(1),A-17-7-7(1),2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Macroptilium,nifDf5fo and nifDr1x ,nifDf5fis and nifDr1x,2,nifDf5fo and nifDr1x withnifDf5fis and nifDr1x,III(III.3D),1
+nifD17-7-2(2),A-17-7-2(2),2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Macroptilium,nifDf7fo and nifDr1x ,nifDf7fi and nifDr1x,3,nifDf7fo and nifDr1x withnifDf7fi and nifDr1x,III(III.3D),1
+nifD16-53-1a,A-16-53-1a,2016,A,"S30° 2'37.49""/W51° 1'19.42""",55,Macroptilium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifD16-53-1b,A-16-53-1b,2016,A,"S30° 2'37.49""/W51° 1'19.42""",55,Macroptilium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifD16-53-2b,A-16-53-2b,2016,A,"S30° 2'37.49""/W51° 1'19.42""",55,Macroptilium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifD16-53-3,A-16-53-3,2016,A,"S30° 2'37.49""/W51° 1'19.42""",55,Macroptilium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifD16-53-4,A-16-53-4,2016,A,"S30° 2'37.49""/W51° 1'19.42""",55,Macroptilium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifD16-53-5a,A-16-53-5a,2016,A,"S30° 2'37.49""/W51° 1'19.42""",55,Macroptilium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifD16-53-5b,A-16-53-5b,2016,A,"S30° 2'37.49""/W51° 1'19.42""",55,Macroptilium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifD16-53-6,A-16-53-6,2016,A,"S30° 2'37.49""/W51° 1'19.42""",55,Macroptilium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifD16-53-7,A-16-53-7,2016,A,"S30° 2'37.49""/W51° 1'19.42""",55,Macroptilium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifD16-53-8,A-16-53-8,2016,A,"S30° 2'37.49""/W51° 1'19.42""",55,Macroptilium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifD16-53-9a,A-16-53-9a,2016,A,"S30° 2'37.49""/W51° 1'19.42""",55,Macroptilium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifD16-53-9b,A-16-53-9b,2016,A,"S30° 2'37.49""/W51° 1'19.42""",55,Macroptilium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifD16-53-10,A-16-53-10,2016,A,"S30° 2'37.49""/W51° 1'19.42""",55,Macroptilium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifD16-53-12,A-16-53-12,2016,A,"S30° 2'37.49""/W51° 1'19.42""",55,Macroptilium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifD16-53-13a,A-16-53-13a,2016,A,"S30° 2'37.49""/W51° 1'19.42""",55,Macroptilium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifD16-53-13b,A-16-53-13b,2016,A,"S30° 2'37.49""/W51° 1'19.42""",55,Macroptilium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifD16-53-14,A-16-53-14,2016,A,"S30° 2'37.49""/W51° 1'19.42""",55,Macroptilium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifD16-53-16,A-16-53-16,2016,A,"S30° 2'37.49""/W51° 1'19.42""",55,Macroptilium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifD16-53-17a,A-16-53-17a,2016,A,"S30° 2'37.49""/W51° 1'19.42""",55,Macroptilium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifD16-53-17b,A-16-53-17b,2016,A,"S30° 2'37.49""/W51° 1'19.42""",55,Macroptilium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifD16-53-18,A-16-53-18,2016,A,"S30° 2'37.49""/W51° 1'19.42""",55,Macroptilium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifD16-53-19,A-16-53-19,2016,A,"S30° 2'37.49""/W51° 1'19.42""",55,Macroptilium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifD16-53-20a,A-16-53-20a,2016,A,"S30° 2'37.49""/W51° 1'19.42""",55,Macroptilium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifD16-53-20b,A-16-53-20b,2016,A,"S30° 2'37.49""/W51° 1'19.42""",55,Macroptilium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifD16-53-21,A-16-53-21,2016,A,"S30° 2'37.49""/W51° 1'19.42""",55,Macroptilium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifD16-53-23,A-16-53-23,2016,A,"S30° 2'37.49""/W51° 1'19.42""",55,Macroptilium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifD16-53-24,A-16-53-24,2016,A,"S30° 2'37.49""/W51° 1'19.42""",55,Macroptilium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifD16-53-25,A-16-53-25,2016,A,"S30° 2'37.49""/W51° 1'19.42""",55,Macroptilium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifD16-53-26,A-16-53-26,2016,A,"S30° 2'37.49""/W51° 1'19.42""",55,Macroptilium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifD16-53-27,A-16-53-27,2016,A,"S30° 2'37.49""/W51° 1'19.42""",55,Macroptilium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifD16-53-32,A-16-53-32,2016,A,"S30° 2'37.49""/W51° 1'19.42""",55,Macroptilium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifD16-53-34,A-16-53-34,2016,A,"S30° 2'37.49""/W51° 1'19.42""",55,Macroptilium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifD16-53-35,A-16-53-35,2016,A,"S30° 2'37.49""/W51° 1'19.42""",55,Macroptilium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifD16-53-37,A-16-53-37,2016,A,"S30° 2'37.49""/W51° 1'19.42""",55,Macroptilium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifD16-53-38,A-16-53-38,2016,A,"S30° 2'37.49""/W51° 1'19.42""",55,Macroptilium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifD16-53-41,A-16-53-41,2016,A,"S30° 2'37.49""/W51° 1'19.42""",55,Macroptilium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifD16-53-42,A-16-53-42,2016,A,"S30° 2'37.49""/W51° 1'19.42""",55,Macroptilium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifD16-53-44,A-16-53-44,2016,A,"S30° 2'37.49""/W51° 1'19.42""",55,Macroptilium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifD16-53-45,A-16-53-45,2016,A,"S30° 2'37.49""/W51° 1'19.42""",55,Macroptilium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifD16-53-46,A-16-53-46,2016,A,"S30° 2'37.49""/W51° 1'19.42""",55,Macroptilium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifD16-53-47,A-16-53-47,2016,A,"S30° 2'37.49""/W51° 1'19.42""",55,Macroptilium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifD16-53-48,A-16-53-48,2016,A,"S30° 2'37.49""/W51° 1'19.42""",55,Macroptilium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifD16-53-50,A-16-53-50,2016,A,"S30° 2'37.49""/W51° 1'19.42""",55,Macroptilium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifD16-53-51,A-16-53-51,2016,A,"S30° 2'37.49""/W51° 1'19.42""",55,Macroptilium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifD16-53-53,A-16-53-53,2016,A,"S30° 2'37.49""/W51° 1'19.42""",55,Macroptilium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifD16-53-54,A-16-53-54,2016,A,"S30° 2'37.49""/W51° 1'19.42""",55,Macroptilium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifD16-53-55,A-16-53-55,2016,A,"S30° 2'37.49""/W51° 1'19.42""",55,Macroptilium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifD16-53-57,A-16-53-57,2016,A,"S30° 2'37.49""/W51° 1'19.42""",55,Macroptilium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifD16-53-59,A-16-53-59,2016,A,"S30° 2'37.49""/W51° 1'19.42""",55,Macroptilium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifD16-53-60,A-16-53-60,2016,A,"S30° 2'37.49""/W51° 1'19.42""",55,Macroptilium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifD17-6-3,A-17-6-3,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Rhynchosia,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifD17-6-6,A-17-6-6,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Rhynchosia,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifD17-6-7,A-17-6-7,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Rhynchosia,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifD17-6-10,A-17-6-10,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Rhynchosia,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifD17-6-12,A-17-6-12,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Rhynchosia,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifD17-6-13,A-17-6-13,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Rhynchosia,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifD17-6-14,A-17-6-14,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Rhynchosia,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifD17-6-15,A-17-6-15,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Rhynchosia,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifD17-6-16,A-17-6-16,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Rhynchosia,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifD17-6-17,A-17-6-17,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Rhynchosia,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifD17-6-18,A-17-6-18,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Rhynchosia,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifD17-6-22,A-17-6-22,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Rhynchosia,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifD17-6-24,A-17-6-24,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Rhynchosia,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifD17-6-25,A-17-6-25,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Rhynchosia,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifD17-6-30,A-17-6-30,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Rhynchosia,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifD17-6-34,A-17-6-34,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Rhynchosia,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifD17-6-37,A-17-6-37,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Rhynchosia,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifD17-6-39,A-17-6-39,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Rhynchosia,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifD17-6-40,A-17-6-40,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Rhynchosia,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifD17-6-44,A-17-6-44,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Rhynchosia,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifD17-6-45,A-17-6-45,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Rhynchosia,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifD17-6-47,A-17-6-47,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Rhynchosia,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifD17-6-48,A-17-6-48,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Rhynchosia,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifD17-6-50,A-17-6-50,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Rhynchosia,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifD17-6-51,A-17-6-51,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Rhynchosia,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifD17-6-52,A-17-6-52,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Rhynchosia,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifD17-6-54,A-17-6-54,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Rhynchosia,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifD17-6-55,A-17-6-55,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Rhynchosia,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifD17-8-1,B-17-8-1,2017,B,"S30° 2'43.10""S /W51° 1'21.90""",55,Rhynchosia,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifD17-8-3,B-17-8-3,2017,B,"S30° 2'43.10""S /W51° 1'21.90""",55,Rhynchosia,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifD17-8-4,B-17-8-4,2017,B,"S30° 2'43.10""S /W51° 1'21.90""",55,Rhynchosia,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifD17-8-6,B-17-8-6,2017,B,"S30° 2'43.10""S /W51° 1'21.90""",55,Rhynchosia,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifD17-8-7,B-17-8-7,2017,B,"S30° 2'43.10""S /W51° 1'21.90""",55,Rhynchosia,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifD17-8-9,B-17-8-9,2017,B,"S30° 2'43.10""S /W51° 1'21.90""",55,Rhynchosia,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifD17-8-11,B-17-8-11,2017,B,"S30° 2'43.10""S /W51° 1'21.90""",55,Rhynchosia,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifD17-8-17,B-17-8-17,2017,B,"S30° 2'43.10""S /W51° 1'21.90""",55,Rhynchosia,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifD17-8-18,B-17-8-18,2017,B,"S30° 2'43.10""S /W51° 1'21.90""",55,Rhynchosia,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifD17-8-19,B-17-8-19,2017,B,"S30° 2'43.10""S /W51° 1'21.90""",55,Rhynchosia,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifD17-8-20,B-17-8-20,2017,B,"S30° 2'43.10""S /W51° 1'21.90""",55,Rhynchosia,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifD17-8-22,B-17-8-22,2017,B,"S30° 2'43.10""S /W51° 1'21.90""",55,Rhynchosia,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifD17-8-28,B-17-8-28,2017,B,"S30° 2'43.10""S /W51° 1'21.90""",55,Rhynchosia,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifD17-8-29,B-17-8-29,2017,B,"S30° 2'43.10""S /W51° 1'21.90""",55,Rhynchosia,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifD17-8-30,B-17-8-30,2017,B,"S30° 2'43.10""S /W51° 1'21.90""",55,Rhynchosia,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifD17-8-32,B-17-8-32,2017,B,"S30° 2'43.10""S /W51° 1'21.90""",55,Rhynchosia,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifD17-8-34,B-17-8-34,2017,B,"S30° 2'43.10""S /W51° 1'21.90""",55,Rhynchosia,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifD17-8-35,B-17-8-35,2017,B,"S30° 2'43.10""S /W51° 1'21.90""",55,Rhynchosia,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifD17-8-38,B-17-8-38,2017,B,"S30° 2'43.10""S /W51° 1'21.90""",55,Rhynchosia,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifD17-8-39,B-17-8-39,2017,B,"S30° 2'43.10""S /W51° 1'21.90""",55,Rhynchosia,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifD17-8-40,B-17-8-40,2017,B,"S30° 2'43.10""S /W51° 1'21.90""",55,Rhynchosia,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifD17-8-44,B-17-8-44,2017,B,"S30° 2'43.10""S /W51° 1'21.90""",55,Rhynchosia,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifD17-8-46,B-17-8-46,2017,B,"S30° 2'43.10""S /W51° 1'21.90""",55,Rhynchosia,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifD17-8-49,B-17-8-49,2017,B,"S30° 2'43.10""S /W51° 1'21.90""",55,Rhynchosia,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifD17-8-51,B-17-8-51,2017,B,"S30° 2'43.10""S /W51° 1'21.90""",55,Rhynchosia,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifD17-8-56,B-17-8-56,2017,B,"S30° 2'43.10""S /W51° 1'21.90""",55,Rhynchosia,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifD17-8-58,B-17-8-58,2017,B,"S30° 2'43.10""S /W51° 1'21.90""",55,Rhynchosia,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifD17-8-59,B-17-8-59,2017,B,"S30° 2'43.10""S /W51° 1'21.90""",55,Rhynchosia,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifD17-8-6(1),B-17-8-6(1),2017,B,"S30° 2'43.10""S /W51° 1'21.90""",55,Rhynchosia,nifDf5fo and nifDr1x ,nifDf5fis and nifDr1x,2,nifDf5fo and nifDr1x withnifDf5fis and nifDr1x,III(III.3D),1
+nifD16-58-1a,B-16-58-1a,2016,B,"S30° 2'43.10""S /W51° 1'21.90""",55,Stylosanthes,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifD16-58-2,B-16-58-2,2016,B,"S30° 2'43.10""S /W51° 1'21.90""",55,Stylosanthes,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifD16-58-3,B-16-58-3,2016,B,"S30° 2'43.10""S /W51° 1'21.90""",55,Stylosanthes,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifD16-58-4a,B-16-58-4a,2016,B,"S30° 2'43.10""S /W51° 1'21.90""",55,Stylosanthes,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifD16-58-6,B-16-58-6,2016,B,"S30° 2'43.10""S /W51° 1'21.90""",55,Stylosanthes,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifD16-58-9a,B-16-58-9a,2016,B,"S30° 2'43.10""S /W51° 1'21.90""",55,Stylosanthes,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifD16-58-9b,B-16-58-9b,2016,B,"S30° 2'43.10""S /W51° 1'21.90""",55,Stylosanthes,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifD16-58-11a,B-16-58-11a,2016,B,"S30° 2'43.10""S /W51° 1'21.90""",55,Stylosanthes,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifD16-58-11b,B-16-58-11b,2016,B,"S30° 2'43.10""S /W51° 1'21.90""",55,Stylosanthes,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifD16-58-15,B-16-58-15,2016,B,"S30° 2'43.10""S /W51° 1'21.90""",55,Stylosanthes,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifD16-58-16,B-16-58-16,2016,B,"S30° 2'43.10""S /W51° 1'21.90""",55,Stylosanthes,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifD16-58-17a,B-16-58-17a,2016,B,"S30° 2'43.10""S /W51° 1'21.90""",55,Stylosanthes,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifD16-58-17b,B-16-58-17b,2016,B,"S30° 2'43.10""S /W51° 1'21.90""",55,Stylosanthes,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifD16-58-18b,B-16-58-18b,2016,B,"S30° 2'43.10""S /W51° 1'21.90""",55,Stylosanthes,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifD16-58-19b,B-16-58-19b,2016,B,"S30° 2'43.10""S /W51° 1'21.90""",55,Stylosanthes,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifD16-58-21,B-16-58-21,2016,B,"S30° 2'43.10""S /W51° 1'21.90""",55,Stylosanthes,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifD16-58-25,B-16-58-25,2016,B,"S30° 2'43.10""S /W51° 1'21.90""",55,Stylosanthes,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifD16-58-33,B-16-58-33,2016,B,"S30° 2'43.10""S /W51° 1'21.90""",55,Stylosanthes,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifD16-58-35,B-16-58-35,2016,B,"S30° 2'43.10""S /W51° 1'21.90""",55,Stylosanthes,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifD16-58-38,B-16-58-38,2016,B,"S30° 2'43.10""S /W51° 1'21.90""",55,Stylosanthes,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifD16-58-42,B-16-58-42,2016,B,"S30° 2'43.10""S /W51° 1'21.90""",55,Stylosanthes,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifD16-58-43,B-16-58-43,2016,B,"S30° 2'43.10""S /W51° 1'21.90""",55,Stylosanthes,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifD16-58-47,B-16-58-47,2016,B,"S30° 2'43.10""S /W51° 1'21.90""",55,Stylosanthes,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifD16-58-48,B-16-58-48,2016,B,"S30° 2'43.10""S /W51° 1'21.90""",55,Stylosanthes,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifD16-58-51,B-16-58-51,2016,B,"S30° 2'43.10""S /W51° 1'21.90""",55,Stylosanthes,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifD16-58-53,B-16-58-53,2016,B,"S30° 2'43.10""S /W51° 1'21.90""",55,Stylosanthes,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifD16-58-54,B-16-58-54,2016,B,"S30° 2'43.10""S /W51° 1'21.90""",55,Stylosanthes,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifD16-58-55,B-16-58-55,2016,B,"S30° 2'43.10""S /W51° 1'21.90""",55,Stylosanthes,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifD16-58-56,B-16-58-56,2016,B,"S30° 2'43.10""S /W51° 1'21.90""",55,Stylosanthes,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifD16-58-58,B-16-58-58,2016,B,"S30° 2'43.10""S /W51° 1'21.90""",55,Stylosanthes,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifD16-58-59,B-16-58-59,2016,B,"S30° 2'43.10""S /W51° 1'21.90""",55,Stylosanthes,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3D),1
+nifD17-10-46,C-17-10-46,2017,C,"S30° 2'43.94""S /W51° 1'27.70""",48,Acacia,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3i),1
+nifD17-10-52,C-17-10-52,2017,C,"S30° 2'43.94""S /W51° 1'27.70""",48,Acacia,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3i),1
+nifD17-1-47,A-7-1-47,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Desmodium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3i),1
+nifD17-6-11,A-17-6-11,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Rhynchosia,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3i),1
+nifD17-9-50,B-17-9-50,2017,B,"S30° 2'43.10""S /W51° 1'21.90""",55,Acacia,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3J),1
+nifD17-10-8,C-17-10-8,2017,C,"S30° 2'43.94""S /W51° 1'27.70""",48,Acacia,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3J),1
+nifD17-10-32,C-17-10-32,2017,C,"S30° 2'43.94""S /W51° 1'27.70""",48,Acacia,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3J),1
+nifD17-10-50,C-17-10-50,2017,C,"S30° 2'43.94""S /W51° 1'27.70""",48,Acacia,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3J),1
+nifD17-4-47,A-17-4-47,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Crotalaria,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3J),1
+nifD17-4-59,A-17-4-59,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Crotalaria,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3J),1
+nifD17-11-9,C-17-11-9,2017,C,"S30° 2'43.94""S /W51° 1'27.70""",48,Desmodium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3J),1
+nifd17-3-13,A-17-3-13,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Desmodium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3J),1
+nifd17-3-23,A-17-3-23,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Desmodium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3J),1
+nifD17-5-17,A-17-5-17,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Desmodium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3J),1
+nifD17-5-28,A-17-5-28,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Desmodium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3J),1
+nifD17-5-41,A-17-5-41,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Desmodium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3J),1
+nifD17-7-47,A-17-7-47,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Macroptilium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3J),1
+nifD17-8-10,B-17-8-10,2017,B,"S30° 2'43.10""S /W51° 1'21.90""",55,Rhynchosia,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3J),1
+nifD17-8-43,B-17-8-43,2017,B,"S30° 2'43.10""S /W51° 1'21.90""",55,Rhynchosia,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3J),1
+nifD16-58-4b,B-16-58-4b,2016,B,"S30° 2'43.10""S /W51° 1'21.90""",55,Stylosanthes,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3J),1
+nifD16-58-28,B-16-58-28,2016,B,"S30° 2'43.10""S /W51° 1'21.90""",55,Stylosanthes,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3J),1
+nifD17-9-51,B-17-9-51,2017,B,"S30° 2'43.10""S /W51° 1'21.90""",55,Acacia,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3K),1
+nifD17-4-56,A-17-4-56,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Crotalaria,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3K),1
+nifd17-3-43,A-17-3-43,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Desmodium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3K),1
+nifD17-5-26,A-17-5-26,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Desmodium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3K),1
+nifD17-9-25,B-17-9-25,2017,B,"S30° 2'43.10""S /W51° 1'21.90""",55,Acacia,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,III(III.3L),1
+nifD16.36.2+Ola,E-16-36-2(1),2016,E,"S29° 3'22.27""S /W50° 3'78.20""",930,Lupinus,nifDf5fo and nifDr1x ,nifDf5fis and nifDr1x,2,nifDf5fo and nifDr1x withnifDf5fis and nifDr1x,III(III.3L),1
+nifD16.36.5+Ola,E-16-36-5(1),2016,E,"S29° 3'22.27""S /W50° 3'78.20""",930,Lupinus,nifDf5fo and nifDr1x ,nifDf5fis and nifDr1x,2,nifDf5fo and nifDr1x withnifDf5fis and nifDr1x,III(III.3L),1
+nifD16.46.51+Joasia,F-16-46-51(2),2016,F,"S29° 4'23.59""S /W50° 3'86.94""",910,Araucaria Soil,nifDf7fo and nifDr1x ,nifDf7fi and nifDr1x,3,nifDf7fo and nifDr1x withnifDf7fi and nifDr1x,III(III.4),1
+nifD16.46.53+Joasia,F-16-46-53(2),2016,F,"S29° 4'23.59""S /W50° 3'86.94""",910,Araucaria Soil,nifDf7fo and nifDr1x ,nifDf7fi and nifDr1x,3,nifDf7fo and nifDr1x withnifDf7fi and nifDr1x,III(III.4),1
+nifD16.46.54+,F-16-46-54(2),2016,F,"S29° 4'23.59""S /W50° 3'86.94""",910,Araucaria Soil,nifDf7fo and nifDr1x ,nifDf7fi and nifDr1x,3,nifDf7fo and nifDr1x withnifDf7fi and nifDr1x,III(III.4),1
+nifD16.46.55+Joasia,F-16-46-55(2),2016,F,"S29° 4'23.59""S /W50° 3'86.94""",910,Araucaria Soil,nifDf7fo and nifDr1x ,nifDf7fi and nifDr1x,3,nifDf7fo and nifDr1x withnifDf7fi and nifDr1x,III(III.4),1
+nifD16.46.57+Joasia,F-16-46-57(2),2016,F,"S29° 4'23.59""S /W50° 3'86.94""",910,Araucaria Soil,nifDf7fo and nifDr1x ,nifDf7fi and nifDr1x,3,nifDf7fo and nifDr1x withnifDf7fi and nifDr1x,III(III.4),1
+nifD16.46.58+Joasia,F-16-46-58(2),2016,F,"S29° 4'23.59""S /W50° 3'86.94""",910,Araucaria Soil,nifDf7fo and nifDr1x ,nifDf7fi and nifDr1x,3,nifDf7fo and nifDr1x withnifDf7fi and nifDr1x,III(III.4),1
+16.46.24,F-16-46-24a(1),2016,F,"S29° 4'23.59""S /W50° 3'86.94""",910,Araucaria Soil,nifDf5fo and nifDr1x ,nifDf5fis and nifDr1x,2,nifDf5fo and nifDr1x withnifDf5fis and nifDr1x,III(III.4),1
+nifD16.46.24+Ola,F-16-46-24b(1),2016,F,"S29° 4'23.59""S /W50° 3'86.94""",910,Araucaria Soil,nifDf5fo and nifDr1x ,nifDf5fis and nifDr1x,2,nifDf5fo and nifDr1x withnifDf5fis and nifDr1x,III(III.4),1
+16.46.27,F-16-46-27a(1),2016,F,"S29° 4'23.59""S /W50° 3'86.94""",910,Araucaria Soil,nifDf5fo and nifDr1x ,nifDf5fis and nifDr1x,2,nifDf5fo and nifDr1x withnifDf5fis and nifDr1x,III(III.4),1
+nifD16.46.27+Ola,F-16-46-27b(1),2016,F,"S29° 4'23.59""S /W50° 3'86.94""",910,Araucaria Soil,nifDf5fo and nifDr1x ,nifDf5fis and nifDr1x,2,nifDf5fo and nifDr1x withnifDf5fis and nifDr1x,III(III.4),1
+nifD16.46.28+Ola,F-16-46-28(1),2016,F,"S29° 4'23.59""S /W50° 3'86.94""",910,Araucaria Soil,nifDf5fo and nifDr1x ,nifDf5fis and nifDr1x,2,nifDf5fo and nifDr1x withnifDf5fis and nifDr1x,III(III.4),1
+nifD16.46.50+Ola,F-16-46-50(1),2016,F,"S29° 4'23.59""S /W50° 3'86.94""",910,Araucaria Soil,nifDf5fo and nifDr1x ,nifDf5fis and nifDr1x,2,nifDf5fo and nifDr1x withnifDf5fis and nifDr1x,III(III.4),1
+nifD16.46.51+Ola,F-16-46-51(1),2016,F,"S29° 4'23.59""S /W50° 3'86.94""",910,Araucaria Soil,nifDf5fo and nifDr1x ,nifDf5fis and nifDr1x,2,nifDf5fo and nifDr1x withnifDf5fis and nifDr1x,III(III.4),1
+nifD16.46.52+Ola,F-16-46-52(1),2016,F,"S29° 4'23.59""S /W50° 3'86.94""",910,Araucaria Soil,nifDf5fo and nifDr1x ,nifDf5fis and nifDr1x,2,nifDf5fo and nifDr1x withnifDf5fis and nifDr1x,III(III.4),1
+16.37.7,E-16-37-7a(1),2016,E,"S29° 3'22.27""S /W50° 3'78.20""",930,Lupinus,nifDf5fo and nifDr1x ,nifDf5fis and nifDr1x,2,nifDf5fo and nifDr1x withnifDf5fis and nifDr1x,III(III.4),1
+nifD16.37.7+Ola,E-16-37-7b(1),2016,E,"S29° 3'22.27""S /W50° 3'78.20""",930,Lupinus,nifDf5fo and nifDr1x ,nifDf5fis and nifDr1x,2,nifDf5fo and nifDr1x withnifDf5fis and nifDr1x,III(III.4),1
+16.37.8,E-16-37-8a(1),2016,E,"S29° 3'22.27""S /W50° 3'78.20""",930,Lupinus,nifDf5fo and nifDr1x ,nifDf5fis and nifDr1x,2,nifDf5fo and nifDr1x withnifDf5fis and nifDr1x,III(III.4),1
+nifD16.37.8+Ola,E-16-37-8b(1),2016,E,"S29° 3'22.27""S /W50° 3'78.20""",930,Lupinus,nifDf5fo and nifDr1x ,nifDf5fis and nifDr1x,2,nifDf5fo and nifDr1x withnifDf5fis and nifDr1x,III(III.4),1
+nifD16.37.11+Ola,E-16-37-11(1),2016,E,"S29° 3'22.27""S /W50° 3'78.20""",930,Lupinus,nifDf5fo and nifDr1x ,nifDf5fis and nifDr1x,2,nifDf5fo and nifDr1x withnifDf5fis and nifDr1x,III(III.4),1
+nifD16.37.38+Ola,E-16-37-38(1),2016,E,"S29° 3'22.27""S /W50° 3'78.20""",930,Lupinus,nifDf5fo and nifDr1x ,nifDf5fis and nifDr1x,2,nifDf5fo and nifDr1x withnifDf5fis and nifDr1x,III(III.4),1
+nifD16.37.39+Ola,E-16-37-39(1),2016,E,"S29° 3'22.27""S /W50° 3'78.20""",930,Lupinus,nifDf5fo and nifDr1x ,nifDf5fis and nifDr1x,2,nifDf5fo and nifDr1x withnifDf5fis and nifDr1x,III(III.4),1
+nifD16.37.40+Ola,E-16-37-40(1),2016,E,"S29° 3'22.27""S /W50° 3'78.20""",930,Lupinus,nifDf5fo and nifDr1x ,nifDf5fis and nifDr1x,2,nifDf5fo and nifDr1x withnifDf5fis and nifDr1x,III(III.4),1
+nifD16.4462+Joasia,F-16-44-62(2),2016,F,"S29° 4'23.59""S /W50° 3'86.94""",910,Machaerium,nifDf7fo and nifDr1x ,nifDf7fi and nifDr1x,3,nifDf7fo and nifDr1x withnifDf7fi and nifDr1x,III(III.4),1
+nifD16.44.65+Joasia,F-16-44-65(2),2016,F,"S29° 4'23.59""S /W50° 3'86.94""",910,Machaerium,nifDf7fo and nifDr1x ,nifDf7fi and nifDr1x,3,nifDf7fo and nifDr1x withnifDf7fi and nifDr1x,III(III.4),1
+nifD17-1-4,A-17-1-4,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Desmodium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,ssl1,1
+nifD17-10-15,C-17-10-15,2017,C,"S30° 2'43.94""S /W51° 1'27.70""",48,Acacia,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,ssl10,1
+nifD17-10-29,C-17-10-29,2017,C,"S30° 2'43.94""S /W51° 1'27.70""",48,Acacia,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,ssl11,1
+nifD17-10-59,C-17-10-59,2017,C,"S30° 2'43.94""S /W51° 1'27.70""",48,Acacia,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,ssl12,1
+nifD16-1-26,D-16-1-26,2016,D,"S29°24'24.6""S / W49°54'43.3""",15,Chamecrista,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,ssl13,1
+nifD16-1-41,D-16-1-41,2016,D,"S29°24'24.6""S / W49°54'43.3""",15,Chamecrista,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,ssl14,1
+nifD16-1-48,D-16-1-48,2016,D,"S29°24'24.6""S / W49°54'43.3""",15,Chamecrista,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,ssl15,1
+nifD16.37.6+Ola,E-16-37-6(1),2016,E,"S29° 3'22.27""S /W50° 3'78.20""",930,Lupinus,nifDf5fo and nifDr1x ,nifDf5fis and nifDr1x,2,nifDf5fo and nifDr1x withnifDf5fis and nifDr1x,ssl16,1
+nifD16.46.29+Ola,F-16-46-29(1),2016,F,"S29° 4'23.59""S /W50° 3'86.94""",910,Araucaria Soil,nifDf5fo and nifDr1x ,nifDf5fis and nifDr1x,2,nifDf5fo and nifDr1x withnifDf5fis and nifDr1x,ssl17,1
+nifD JS30,F-16-45-30a(2),2016,F,"S29° 4'23.59""S /W50° 3'86.94""",910,Desmodium,nifDf7fo and nifDr1x ,nifDf7fi and nifDr1x,3,nifDf7fo and nifDr1x withnifDf7fi and nifDr1x,ssl18,1
+nifD16.45.30+Joasia,F-16-45-30b(2),2016,F,"S29° 4'23.59""S /W50° 3'86.94""",910,Desmodium,nifDf7fo and nifDr1x ,nifDf7fi and nifDr1x,3,nifDf7fo and nifDr1x withnifDf7fi and nifDr1x,ssl19,1
+nifD17-1-12,A-17-1-12,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Desmodium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,ssl2,1
+nifD16.46.52+Joasia,F-16-46-52(2),2016,F,"S29° 4'23.59""S /W50° 3'86.94""",910,Araucaria Soil,nifDf7fo and nifDr1x ,nifDf7fi and nifDr1x,3,nifDf7fo and nifDr1x withnifDf7fi and nifDr1x,ssl20,1
+nifD17-2-35,A-17-2-35,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Aeschynomene,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,ssl3,1
+nifD17-2-43,A-17-2-43,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Aeschynomene,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,ssl4,1
+nifd17-3-15,A-17-3-15,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Desmodium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,ssl5,1
+nifd17-3-38,A-17-3-38,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Desmodium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,ssl6,1
+nifd17-3-42,A-17-3-42,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Desmodium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,ssl7,1
+nifD17-5-46,A-17-5-46,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Desmodium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,ssl8,1
+nifD17-8-36,B-17-8-36,2017,B,"S30° 2'43.10""S /W51° 1'21.90""",55,Rhynchosia,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,ssl9,1
+nifD16.44.60+Joasia,F-16-44-60(2),2016,F,"S29° 4'23.59""S /W50° 3'86.94""",910,Machaerium,nifDf7fo and nifDr1x ,nifDf7fi and nifDr1x,3,nifDf7fo and nifDr1x withnifDf7fi and nifDr1x,VII,1
+nifD16.44.64+Joasia,F-16-44-64(2),2016,F,"S29° 4'23.59""S /W50° 3'86.94""",910,Machaerium,nifDf7fo and nifDr1x ,nifDf7fi and nifDr1x,3,nifDf7fo and nifDr1x withnifDf7fi and nifDr1x,VII,1
+nifD17-2-5(3),A-17-2-5(3),2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Aeschynomene,nifDfx1 and nifDr1x,nifDfx1 and nifDr1x,4,nifDfx1 and nifDr1xwithnifDfx1 and nifDr1x,XVII,1
+nifD16.46.59+Joasia,F-16-46-59(2),2016,F,"S29° 4'23.59""S /W50° 3'86.94""",910,Araucaria Soil,nifDf7fo and nifDr1x ,nifDf7fi and nifDr1x,3,nifDf7fo and nifDr1x withnifDf7fi and nifDr1x,XVII,1
+nifD16.44.61+Joasia,F-16-44-61(2),2016,F,"S29° 4'23.59""S /W50° 3'86.94""",910,Machaerium,nifDf7fo and nifDr1x ,nifDf7fi and nifDr1x,3,nifDf7fo and nifDr1x withnifDf7fi and nifDr1x,XVII,1
+nifD16.44.63+Joasia,F-16-44-63(2),2016,F,"S29° 4'23.59""S /W50° 3'86.94""",910,Machaerium,nifDf7fo and nifDr1x ,nifDf7fi and nifDr1x,3,nifDf7fo and nifDr1x withnifDf7fi and nifDr1x,XVII,1
+16.46.31,F-16-46-31a(1),2016,F,"S29° 4'23.59""S /W50° 3'86.94""",910,Araucaria Soil,nifDf5fo and nifDr1x ,nifDf5fis and nifDr1x,2,nifDf5fo and nifDr1x withnifDf5fis and nifDr1x,XX,1
+nifD16.46.31+Ola,F-16-46-31b(1),2016,F,"S29° 4'23.59""S /W50° 3'86.94""",910,Araucaria Soil,nifDf5fo and nifDr1x ,nifDf5fis and nifDr1x,2,nifDf5fo and nifDr1x withnifDf5fis and nifDr1x,XX,1
+16.36.3,E-16-36-3a(1),2016,E,"S29° 3'22.27""S /W50° 3'78.20""",930,Lupinus,nifDf5fo and nifDr1x ,nifDf5fis and nifDr1x,2,nifDf5fo and nifDr1x withnifDf5fis and nifDr1x,XX,1
+nifD16.36.3+Ola,E-16-36-3b(1),2016,E,"S29° 3'22.27""S /W50° 3'78.20""",930,Lupinus,nifDf5fo and nifDr1x ,nifDf5fis and nifDr1x,2,nifDf5fo and nifDr1x withnifDf5fis and nifDr1x,XX,1
+16.36.4,E-16-36-4a(1),2016,E,"S29° 3'22.27""S /W50° 3'78.20""",930,Lupinus,nifDf5fo and nifDr1x ,nifDf5fis and nifDr1x,2,nifDf5fo and nifDr1x withnifDf5fis and nifDr1x,XX,1
+nifD16.36.4+Ola,E-16-36-4b(1),2016,E,"S29° 3'22.27""S /W50° 3'78.20""",930,Lupinus,nifDf5fo and nifDr1x ,nifDf5fis and nifDr1x,2,nifDf5fo and nifDr1x withnifDf5fis and nifDr1x,XX,1
+nifD16.36.33+Ola,E-16-36-33(1),2016,E,"S29° 3'22.27""S /W50° 3'78.20""",930,Lupinus,nifDf5fo and nifDr1x ,nifDf5fis and nifDr1x,2,nifDf5fo and nifDr1x withnifDf5fis and nifDr1x,XX,1
+nifD16.36.34+Ola,E-16-36-34(1),2016,E,"S29° 3'22.27""S /W50° 3'78.20""",930,Lupinus,nifDf5fo and nifDr1x ,nifDf5fis and nifDr1x,2,nifDf5fo and nifDr1x withnifDf5fis and nifDr1x,XX,1
+nifD16.36.35+Ola,E-16-36-35(1),2016,E,"S29° 3'22.27""S /W50° 3'78.20""",930,Lupinus,nifDf5fo and nifDr1x ,nifDf5fis and nifDr1x,2,nifDf5fo and nifDr1x withnifDf5fis and nifDr1x,XX,1
+16.37.10,E-16-37-10a(1),2016,E,"S29° 3'22.27""S /W50° 3'78.20""",930,Lupinus,nifDf5fo and nifDr1x ,nifDf5fis and nifDr1x,2,nifDf5fo and nifDr1x withnifDf5fis and nifDr1x,XX,1
+nifD16.37.10+Ola,E-16-37-10b(1),2016,E,"S29° 3'22.27""S /W50° 3'78.20""",930,Lupinus,nifDf5fo and nifDr1x ,nifDf5fis and nifDr1x,2,nifDf5fo and nifDr1x withnifDf5fis and nifDr1x,XX,1
+nifD16.37.15+Ola,E-16-37-15(1),2016,E,"S29° 3'22.27""S /W50° 3'78.20""",930,Lupinus,nifDf5fo and nifDr1x ,nifDf5fis and nifDr1x,2,nifDf5fo and nifDr1x withnifDf5fis and nifDr1x,XX,1
+nifD16.37.37+Ola,E-16-37-37(1),2016,E,"S29° 3'22.27""S /W50° 3'78.20""",930,Lupinus,nifDf5fo and nifDr1x ,nifDf5fis and nifDr1x,2,nifDf5fo and nifDr1x withnifDf5fis and nifDr1x,XX,1
+16.44.16,F-16-44-16a(1),2016,F,"S29° 4'23.59""S /W50° 3'86.94""",910,Machaerium,nifDf5fo and nifDr1x ,nifDf5fis and nifDr1x,2,nifDf5fo and nifDr1x withnifDf5fis and nifDr1x,XX,1
+nifD16.44.16+Ola,F-16-44-16b(1),2016,F,"S29° 4'23.59""S /W50° 3'86.94""",910,Machaerium,nifDf5fo and nifDr1x ,nifDf5fis and nifDr1x,2,nifDf5fo and nifDr1x withnifDf5fis and nifDr1x,XX,1
+16.44.22,F-16-44-22a(1),2016,F,"S29° 4'23.59""S /W50° 3'86.94""",910,Machaerium,nifDf5fo and nifDr1x ,nifDf5fis and nifDr1x,2,nifDf5fo and nifDr1x withnifDf5fis and nifDr1x,XX,1
+nifD16.44.22+Ola,F-16-44-22b(1),2016,F,"S29° 4'23.59""S /W50° 3'86.94""",910,Machaerium,nifDf5fo and nifDr1x ,nifDf5fis and nifDr1x,2,nifDf5fo and nifDr1x withnifDf5fis and nifDr1x,XX,1
+nifD16.37.13+Ola,E-16-37-13(1),2016,E,"S29° 3'22.27""S /W50° 3'78.20""",930,Lupinus,nifDf5fo and nifDr1x ,nifDf5fis and nifDr1x,2,nifDf5fo and nifDr1x withnifDf5fis and nifDr1x,XXI,1
+nifD16.37.41+Ola,E-16-37-41(1),2016,E,"S29° 3'22.27""S /W50° 3'78.20""",930,Lupinus,nifDf5fo and nifDr1x ,nifDf5fis and nifDr1x,2,nifDf5fo and nifDr1x withnifDf5fis and nifDr1x,XXI,1
+nifD17-10-41,C-17-10-41,2017,C,"S30° 2'43.94""S /W51° 1'27.70""",48,Acacia,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,XXII,1
+nifD17-10-58,C-17-10-58,2017,C,"S30° 2'43.94""S /W51° 1'27.70""",48,Acacia,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,XXII,1
+nifD17-2-27,A-17-2-27,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Aeschynomene,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,XXII,1
+nifD17-2-40,A-17-2-40,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Aeschynomene,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,XXII,1
+nifD17-2-59,A-17-2-59,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Aeschynomene,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,XXII,1
+nifD17-1-21,A-17-1-21,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Desmodium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,XXII,1
+nifD17-1-53,A-17-1-53,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Desmodium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,XXII,1
+nifD16.45.27+Joasia,F-16-45-27(2),2016,F,"S29° 4'23.59""S /W50° 3'86.94""",910,Desmodium,nifDf7fo and nifDr1x ,nifDf7fi and nifDr1x,3,nifDf7fo and nifDr1x withnifDf7fi and nifDr1x,XXII,1
+nifD JS28,F-16-45-28a(2),2016,F,"S29° 4'23.59""S /W50° 3'86.94""",910,Desmodium,nifDf7fo and nifDr1x ,nifDf7fi and nifDr1x,3,nifDf7fo and nifDr1x withnifDf7fi and nifDr1x,XXII,1
+nifD16.45.28+Joasia,F-16-45-28b(2),2016,F,"S29° 4'23.59""S /W50° 3'86.94""",910,Desmodium,nifDf7fo and nifDr1x ,nifDf7fi and nifDr1x,3,nifDf7fo and nifDr1x withnifDf7fi and nifDr1x,XXII,1
+nifD JS29,F-16-45-29a(2),2016,F,"S29° 4'23.59""S /W50° 3'86.94""",910,Desmodium,nifDf7fo and nifDr1x ,nifDf7fi and nifDr1x,3,nifDf7fo and nifDr1x withnifDf7fi and nifDr1x,XXII,1
+nifD16.45.29+Joasia,F-16-45-29b(2),2016,F,"S29° 4'23.59""S /W50° 3'86.94""",910,Desmodium,nifDf7fo and nifDr1x ,nifDf7fi and nifDr1x,3,nifDf7fo and nifDr1x withnifDf7fi and nifDr1x,XXII,1
+nifD JS31,F-16-45-31a(2),2016,F,"S29° 4'23.59""S /W50° 3'86.94""",910,Desmodium,nifDf7fo and nifDr1x ,nifDf7fi and nifDr1x,3,nifDf7fo and nifDr1x withnifDf7fi and nifDr1x,XXII,1
+nifD16.45.31+Joasia,F-16-45-31b(2),2016,F,"S29° 4'23.59""S /W50° 3'86.94""",910,Desmodium,nifDf7fo and nifDr1x ,nifDf7fi and nifDr1x,3,nifDf7fo and nifDr1x withnifDf7fi and nifDr1x,XXII,1
+nifD JS32,F-16-45-32a(2),2016,F,"S29° 4'23.59""S /W50° 3'86.94""",910,Desmodium,nifDf7fo and nifDr1x ,nifDf7fi and nifDr1x,3,nifDf7fo and nifDr1x withnifDf7fi and nifDr1x,XXII,1
+nifD16.45.32+Joasia,F-16-45-32b(2),2016,F,"S29° 4'23.59""S /W50° 3'86.94""",910,Desmodium,nifDf7fo and nifDr1x ,nifDf7fi and nifDr1x,3,nifDf7fo and nifDr1x withnifDf7fi and nifDr1x,XXII,1
+nifD JS33,F-16-45-33a(2),2016,F,"S29° 4'23.59""S /W50° 3'86.94""",910,Desmodium,nifDf7fo and nifDr1x ,nifDf7fi and nifDr1x,3,nifDf7fo and nifDr1x withnifDf7fi and nifDr1x,XXII,1
+nifD16.45.33+Joasia,F-16-45-33b(2),2016,F,"S29° 4'23.59""S /W50° 3'86.94""",910,Desmodium,nifDf7fo and nifDr1x ,nifDf7fi and nifDr1x,3,nifDf7fo and nifDr1x withnifDf7fi and nifDr1x,XXII,1
+nifD16.45.37+Joasia,F-16-45-37(2),2016,F,"S29° 4'23.59""S /W50° 3'86.94""",910,Desmodium,nifDf7fo and nifDr1x ,nifDf7fi and nifDr1x,3,nifDf7fo and nifDr1x withnifDf7fi and nifDr1x,XXII,1
+nifD JS38,F-16-45-38a(2),2016,F,"S29° 4'23.59""S /W50° 3'86.94""",910,Desmodium,nifDf7fo and nifDr1x ,nifDf7fi and nifDr1x,3,nifDf7fo and nifDr1x withnifDf7fi and nifDr1x,XXII,1
+nifD16.45.38+Joasia,F-16-45-38b(2),2016,F,"S29° 4'23.59""S /W50° 3'86.94""",910,Desmodium,nifDf7fo and nifDr1x ,nifDf7fi and nifDr1x,3,nifDf7fo and nifDr1x withnifDf7fi and nifDr1x,XXII,1
+nifD16.45.44+Joasia,F-16-45-44(2),2016,F,"S29° 4'23.59""S /W50° 3'86.94""",910,Desmodium,nifDf7fo and nifDr1x ,nifDf7fi and nifDr1x,3,nifDf7fo and nifDr1x withnifDf7fi and nifDr1x,XXII,1
+nifD16.45.45+Joasia,F-16-45-45(2),2016,F,"S29° 4'23.59""S /W50° 3'86.94""",910,Desmodium,nifDf7fo and nifDr1x ,nifDf7fi and nifDr1x,3,nifDf7fo and nifDr1x withnifDf7fi and nifDr1x,XXII,1
+nifD16.45.47+Joasia,F-16-45-47(2),2016,F,"S29° 4'23.59""S /W50° 3'86.94""",910,Desmodium,nifDf7fo and nifDr1x ,nifDf7fi and nifDr1x,3,nifDf7fo and nifDr1x withnifDf7fi and nifDr1x,XXII,1
+nifD16.36.1+Ola,E-16-36-1(1),2016,E,"S29° 3'22.27""S /W50° 3'78.20""",930,Lupinus,nifDf5fo and nifDr1x ,nifDf5fis and nifDr1x,2,nifDf5fo and nifDr1x withnifDf5fis and nifDr1x,XXII,1
+nifD16.37.9+Ola,E-16-37-9(1),2016,E,"S29° 3'22.27""S /W50° 3'78.20""",930,Lupinus,nifDf5fo and nifDr1x ,nifDf5fis and nifDr1x,2,nifDf5fo and nifDr1x withnifDf5fis and nifDr1x,XXII,1
+nifD16.37.12+Ola,E-16-37-12(1),2016,E,"S29° 3'22.27""S /W50° 3'78.20""",930,Lupinus,nifDf5fo and nifDr1x ,nifDf5fis and nifDr1x,2,nifDf5fo and nifDr1x withnifDf5fis and nifDr1x,XXII,1
+nifD16.37.14+Ola,E-16-37-14(1),2016,E,"S29° 3'22.27""S /W50° 3'78.20""",930,Lupinus,nifDf5fo and nifDr1x ,nifDf5fis and nifDr1x,2,nifDf5fo and nifDr1x withnifDf5fis and nifDr1x,XXII,1
+16.44.17,F-16-44-17a(1),2016,F,"S29° 4'23.59""S /W50° 3'86.94""",910,Machaerium,nifDf5fo and nifDr1x ,nifDf5fis and nifDr1x,2,nifDf5fo and nifDr1x withnifDf5fis and nifDr1x,XXII,1
+nifD16.44.17+Ola,F-16-44-17b(1),2016,F,"S29° 4'23.59""S /W50° 3'86.94""",910,Machaerium,nifDf5fo and nifDr1x ,nifDf5fis and nifDr1x,2,nifDf5fo and nifDr1x withnifDf5fis and nifDr1x,XXII,1
+nifD17-7-46,A-17-7-46,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Macroptilium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,XXII,1
+nifD16-53-29,A-16-53-29,2016,A,"S30° 2'37.49""/W51° 1'19.42""",55,Macroptilium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,XXII,1
+nifD16-53-52,A-16-53-52,2016,A,"S30° 2'37.49""/W51° 1'19.42""",55,Macroptilium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,XXII,1
+nifD17-6-42,A-17-6-42,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Rhynchosia,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,XXII,1
+nifD16-58-8,B-16-58-8,2016,B,"S30° 2'43.10""S /W51° 1'21.90""",55,Stylosanthes,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,XXII,1
+nifD17-2-38,A-17-2-38,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Aeschynomene,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,XXIII,1
+nifd17-3-9,A-17-3-9,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Desmodium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,XXIII,1
+nifD16-58-22b,B-16-58-22b,2016,B,"S30° 2'43.10""S /W51° 1'21.90""",55,Stylosanthes,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,XXIII,1
+nifD16-58-50,B-16-58-50,2016,B,"S30° 2'43.10""S /W51° 1'21.90""",55,Stylosanthes,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,XXIII,1
+nifD17-6-46,A-17-6-46,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Rhynchosia,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,XXIV,1
+nifD16-58-23,B-16-58-23,2016,B,"S30° 2'43.10""S /W51° 1'21.90""",55,Stylosanthes,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,XXIV,1
+nifD17-1-37,A-17-1-37,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Desmodium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,XXV,1
+nifD17-5-2,A-17-5-2,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Desmodium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,XXV,1
+nifD17-5-45,A-17-5-45,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Desmodium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,XXV,1
+nifD16.45.47+Ola,F-2016-45-47(1),2016,F,"S29° 4'23.59""S /W50° 3'86.94""",910,Desmodium,nifDf5fo and nifDr1x ,nifDf5fis and nifDr1x,2,nifDf5fo and nifDr1x withnifDf5fis and nifDr1x,XXV,1
+nifD16.45.48+Ola,F-2016-45-48(1),2016,F,"S29° 4'23.59""S /W50° 3'86.94""",910,Desmodium,nifDf5fo and nifDr1x ,nifDf5fis and nifDr1x,2,nifDf5fo and nifDr1x withnifDf5fis and nifDr1x,XXV,1
+nifD16.45.49+Ola,F-2016-45-49(1),2016,F,"S29° 4'23.59""S /W50° 3'86.94""",910,Desmodium,nifDf5fo and nifDr1x ,nifDf5fis and nifDr1x,2,nifDf5fo and nifDr1x withnifDf5fis and nifDr1x,XXV,1
+nifD JS40,F-16-45-40a(2),2016,F,"S29° 4'23.59""S /W50° 3'86.94""",910,Desmodium,nifDf7fo and nifDr1x ,nifDf7fi and nifDr1x,3,nifDf7fo and nifDr1x withnifDf7fi and nifDr1x,XXV,1
+nifD16.45.40+Joasia,F-16-45-40b(2),2016,F,"S29° 4'23.59""S /W50° 3'86.94""",910,Desmodium,nifDf7fo and nifDr1x ,nifDf7fi and nifDr1x,3,nifDf7fo and nifDr1x withnifDf7fi and nifDr1x,XXV,1
+nifD16.45.49+Joasia,F-16-45-49(2),2016,F,"S29° 4'23.59""S /W50° 3'86.94""",910,Desmodium,nifDf7fo and nifDr1x ,nifDf7fi and nifDr1x,3,nifDf7fo and nifDr1x withnifDf7fi and nifDr1x,XXV,1
+16.44.18,F-16-44-18a(1),2016,F,"S29° 4'23.59""S /W50° 3'86.94""",910,Machaerium,nifDf5fo and nifDr1x ,nifDf5fis and nifDr1x,2,nifDf5fo and nifDr1x withnifDf5fis and nifDr1x,XXV,1
+nifD16.44.18+Ola,F-16-44-18b(1),2016,F,"S29° 4'23.59""S /W50° 3'86.94""",910,Machaerium,nifDf5fo and nifDr1x ,nifDf5fis and nifDr1x,2,nifDf5fo and nifDr1x withnifDf5fis and nifDr1x,XXV,1
+16.44.19,F-16-44-19a(1),2016,F,"S29° 4'23.59""S /W50° 3'86.94""",910,Machaerium,nifDf5fo and nifDr1x ,nifDf5fis and nifDr1x,2,nifDf5fo and nifDr1x withnifDf5fis and nifDr1x,XXV,1
+nifD16.44.19+Ola,F-16-44-19b(1),2016,F,"S29° 4'23.59""S /W50° 3'86.94""",910,Machaerium,nifDf5fo and nifDr1x ,nifDf5fis and nifDr1x,2,nifDf5fo and nifDr1x withnifDf5fis and nifDr1x,XXV,1
+nifD16.44.20+Ola,F-16-44-20(1),2016,F,"S29° 4'23.59""S /W50° 3'86.94""",910,Machaerium,nifDf5fo and nifDr1x ,nifDf5fis and nifDr1x,2,nifDf5fo and nifDr1x withnifDf5fis and nifDr1x,XXV,1
+nifD16.44.21+Ola,F-16-44-21(1),2016,F,"S29° 4'23.59""S /W50° 3'86.94""",910,Machaerium,nifDf5fo and nifDr1x ,nifDf5fis and nifDr1x,2,nifDf5fo and nifDr1x withnifDf5fis and nifDr1x,XXV,1
+16.44.23,F-16-44-23a(1),2016,F,"S29° 4'23.59""S /W50° 3'86.94""",910,Machaerium,nifDf5fo and nifDr1x ,nifDf5fis and nifDr1x,2,nifDf5fo and nifDr1x withnifDf5fis and nifDr1x,XXV,1
+nifD16.44.23+Ola,F-16-44-23b(1),2016,F,"S29° 4'23.59""S /W50° 3'86.94""",910,Machaerium,nifDf5fo and nifDr1x ,nifDf5fis and nifDr1x,2,nifDf5fo and nifDr1x withnifDf5fis and nifDr1x,XXV,1
+nifD16.44.43+Ola,F-16-44-43(1),2016,F,"S29° 4'23.59""S /W50° 3'86.94""",910,Machaerium,nifDf5fo and nifDr1x ,nifDf5fis and nifDr1x,2,nifDf5fo and nifDr1x withnifDf5fis and nifDr1x,XXV,1
+nifD16.44.44+Ola,F-16-44-44(1),2016,F,"S29° 4'23.59""S /W50° 3'86.94""",910,Machaerium,nifDf5fo and nifDr1x ,nifDf5fis and nifDr1x,2,nifDf5fo and nifDr1x withnifDf5fis and nifDr1x,XXV,1
+nifD16.44.45+Ola,F-16-44-45(1),2016,F,"S29° 4'23.59""S /W50° 3'86.94""",910,Machaerium,nifDf5fo and nifDr1x ,nifDf5fis and nifDr1x,2,nifDf5fo and nifDr1x withnifDf5fis and nifDr1x,XXV,1
+nifD16-58-29,B-16-58-29,2016,B,"S30° 2'43.10""S /W51° 1'21.90""",55,Stylosanthes,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,XXV,1
+nifD17-9-57,B-17-9-57,2017,B,"S30° 2'43.10""S /W51° 1'21.90""",55,Acacia,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,XXVI,1
+nifD17-10-5,C-17-10-5,2017,C,"S30° 2'43.94""S /W51° 1'27.70""",48,Acacia,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,XXVI,1
+nifD17-2-31,A-17-2-31,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Aeschynomene,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,XXVI,1
+nifD17-2-37,A-17-2-37,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Aeschynomene,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,XXVI,1
+nifD16-1-1,D-16-1-1,2016,D,"S29°24'24.6""S / W49°54'43.3""",15,Chamecrista,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,XXVI,1
+nifD16-1-22b,D-16-1-22b,2016,D,"S29°24'24.6""S / W49°54'43.3""",15,Chamecrista,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,XXVI,1
+nifD17-4-27,A-17-4-27,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Crotalaria,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,XXVI,1
+nifD17-5-57,A-17-5-57,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Desmodium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,XXVI,1
+nifD16-53-28,A-16-53-28,2016,A,"S30° 2'37.49""/W51° 1'19.42""",55,Macroptilium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,XXVI,1
+nifD17-6-35,A-17-6-35,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Rhynchosia,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,XXVI,1
+nifD17-8-12,B-17-8-12,2017,B,"S30° 2'43.10""S /W51° 1'21.90""",55,Rhynchosia,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,XXVI,1
+nifD16-58-1b,B-16-58-1b,2016,B,"S30° 2'43.10""S /W51° 1'21.90""",55,Stylosanthes,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,XXVI,1
+nifD16-58-14,B-16-58-14,2016,B,"S30° 2'43.10""S /W51° 1'21.90""",55,Stylosanthes,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,XXVI,1
+nifD16-58-26,B-16-58-26,2016,B,"S30° 2'43.10""S /W51° 1'21.90""",55,Stylosanthes,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,XXVI,1
+nifD16.46.26+Ola,F-16-46-26(1),2016,F,"S29° 4'23.59""S /W50° 3'86.94""",910,Araucaria Soil,nifDf5fo and nifDr1x ,nifDf5fis and nifDr1x,2,nifDf5fo and nifDr1x withnifDf5fis and nifDr1x,XXVII,1
+nifD16.46.32+Ola,F-16-46-32(1),2016,F,"S29° 4'23.59""S /W50° 3'86.94""",910,Araucaria Soil,nifDf5fo and nifDr1x ,nifDf5fis and nifDr1x,2,nifDf5fo and nifDr1x withnifDf5fis and nifDr1x,XXVII,1
+nifD16.46.53+Ola,F-16-46-53(1),2016,F,"S29° 4'23.59""S /W50° 3'86.94""",910,Araucaria Soil,nifDf5fo and nifDr1x ,nifDf5fis and nifDr1x,2,nifDf5fo and nifDr1x withnifDf5fis and nifDr1x,XXVII,1
+nifD17-1-7,A-17-1-7,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Desmodium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,XXVIII,1
+nifD17-1-40,A-17-1-40,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Desmodium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,XXVIII,1
+nifD17-9-46,B-17-9-46,2017,B,"S30° 2'43.10""S /W51° 1'21.90""",55,Acacia,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,XXX,1
+nifD17-10-31,C-17-10-31,2017,C,"S30° 2'43.94""S /W51° 1'27.70""",48,Acacia,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,XXX,1
+nifD17-2-13,A-17-2-13,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Aeschynomene,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,XXX,1
+nifD17-2-15,A-17-2-15,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Aeschynomene,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,XXX,1
+nifD17-2-32,A-17-2-32,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Aeschynomene,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,XXX,1
+nifD17-2-51,A-17-2-51,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Aeschynomene,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,XXX,1
+nifD17-2-54,A-17-2-54,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Aeschynomene,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,XXX,1
+nifD17-4-41,A-17-4-41,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Crotalaria,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,XXX,1
+nifD17-4-55,A-17-4-55,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Crotalaria,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,XXX,1
+nifD17-1-19,A-17-1-19,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Desmodium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,XXX,1
+nifD17-1-49,A-17-1-49,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Desmodium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,XXX,1
+nifd17-3-6,A-17-3-6,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Desmodium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,XXX,1
+nifd17-3-22,A-17-3-22,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Desmodium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,XXX,1
+nifd17-3-24,A-17-3-24,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Desmodium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,XXX,1
+nifD17-5-31,A-17-5-31,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Desmodium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,XXX,1
+nifD17-5-35,A-17-5-35,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Desmodium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,XXX,1
+nifD17-5-40,A-17-5-40,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Desmodium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,XXX,1
+nifD17-5-50,A-17-5-50,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Desmodium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,XXX,1
+nifD17-5-53,A-17-5-53,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Desmodium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,XXX,1
+nifD17-7-22,A-17-7-22,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Macroptilium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,XXX,1
+nifD17-6-2,A-17-6-2,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Rhynchosia,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,XXX,1
+nifD17-6-21,A-17-6-21,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Rhynchosia,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,XXX,1
+nifD16-58-36,B-16-58-36,2016,B,"S30° 2'43.10""S /W51° 1'21.90""",55,Stylosanthes,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,XXX,1
+nifD16-58-52,B-16-58-52,2016,B,"S30° 2'43.10""S /W51° 1'21.90""",55,Stylosanthes,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,XXX,1
+nifD17-10-14,C-17-10-14,2017,C,"S30° 2'43.94""S /W51° 1'27.70""",48,Acacia,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,XXXI,1
+nifD17-2-24,A-17-2-24,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Aeschynomene,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,XXXI,1
+nifD17-2-42,A-17-2-42,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Aeschynomene,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,XXXI,1
+nifD17-2-44,A-17-2-44,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Aeschynomene,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,XXXI,1
+nifD17-2-46,A-17-2-46,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Aeschynomene,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,XXXI,1
+nifD17-2-47,A-17-2-47,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Aeschynomene,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,XXXI,1
+nifd17-3-12,A-17-3-12,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Desmodium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,XXXI,1
+nifd17-3-53,A-17-3-53,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Desmodium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,XXXI,1
+nifD17-5-20,A-17-5-20,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Desmodium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,XXXI,1
+nifD17-5-60,A-17-5-60,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Desmodium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,XXXI,1
+nifD17-7-50,A-17-7-50,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Macroptilium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,XXXI,1
+nifD16-53-30,A-16-53-30,2016,A,"S30° 2'37.49""/W51° 1'19.42""",55,Macroptilium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,XXXI,1
+nifD16-53-36,A-16-53-36,2016,A,"S30° 2'37.49""/W51° 1'19.42""",55,Macroptilium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,XXXI,1
+nifD16-53-43,A-16-53-43,2016,A,"S30° 2'37.49""/W51° 1'19.42""",55,Macroptilium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,XXXI,1
+nifD16-53-49,A-16-53-49,2016,A,"S30° 2'37.49""/W51° 1'19.42""",55,Macroptilium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,XXXI,1
+nifD16-53-56,A-16-53-56,2016,A,"S30° 2'37.49""/W51° 1'19.42""",55,Macroptilium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,XXXI,1
+nifD16-58-7a,B-16-58-7a,2016,B,"S30° 2'43.10""S /W51° 1'21.90""",55,Stylosanthes,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,XXXI,1
+nifD16-58-7b,B-16-58-7b,2016,B,"S30° 2'43.10""S /W51° 1'21.90""",55,Stylosanthes,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,XXXI,1
+nifD16-58-10,B-16-58-10,2016,B,"S30° 2'43.10""S /W51° 1'21.90""",55,Stylosanthes,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,XXXI,1
+nifD16-58-12,B-16-58-12,2016,B,"S30° 2'43.10""S /W51° 1'21.90""",55,Stylosanthes,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,XXXI,1
+nifD16-58-13,B-16-58-13,2016,B,"S30° 2'43.10""S /W51° 1'21.90""",55,Stylosanthes,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,XXXI,1
+nifD16-58-18a,B-16-58-18a,2016,B,"S30° 2'43.10""S /W51° 1'21.90""",55,Stylosanthes,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,XXXI,1
+nifD16-58-22a,B-16-58-22a,2016,B,"S30° 2'43.10""S /W51° 1'21.90""",55,Stylosanthes,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,XXXI,1
+nifD16-58-24,B-16-58-24,2016,B,"S30° 2'43.10""S /W51° 1'21.90""",55,Stylosanthes,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,XXXI,1
+nifD16-58-27,B-16-58-27,2016,B,"S30° 2'43.10""S /W51° 1'21.90""",55,Stylosanthes,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,XXXI,1
+nifD16-58-30,B-16-58-30,2016,B,"S30° 2'43.10""S /W51° 1'21.90""",55,Stylosanthes,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,XXXI,1
+nifD16-58-31,B-16-58-31,2016,B,"S30° 2'43.10""S /W51° 1'21.90""",55,Stylosanthes,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,XXXI,1
+nifD16-58-37,B-16-58-37,2016,B,"S30° 2'43.10""S /W51° 1'21.90""",55,Stylosanthes,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,XXXI,1
+nifD16-58-40,B-16-58-40,2016,B,"S30° 2'43.10""S /W51° 1'21.90""",55,Stylosanthes,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,XXXI,1
+nifD16-58-41,B-16-58-41,2016,B,"S30° 2'43.10""S /W51° 1'21.90""",55,Stylosanthes,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,XXXI,1
+nifD16-58-44,B-16-58-44,2016,B,"S30° 2'43.10""S /W51° 1'21.90""",55,Stylosanthes,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,XXXI,1
+nifD16-58-45,B-16-58-45,2016,B,"S30° 2'43.10""S /W51° 1'21.90""",55,Stylosanthes,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,XXXI,1
+nifD16-58-49,B-16-58-49,2016,B,"S30° 2'43.10""S /W51° 1'21.90""",55,Stylosanthes,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,XXXI,1
+nifD16-58-60,B-16-58-60,2016,B,"S30° 2'43.10""S /W51° 1'21.90""",55,Stylosanthes,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,XXXI,1
+nifD17-9-27,B-17-9-27,2017,B,"S30° 2'43.10""S /W51° 1'21.90""",55,Acacia,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,XXXII,1
+nifD17-2-6,A-17-2-6,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Aeschynomene,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,XXXII,1
+nifD17-2-7,A-17-2-7,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Aeschynomene,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,XXXII,1
+nifD17-2-48,A-17-2-48,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Aeschynomene,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,XXXII,1
+nifD17-2-60,A-17-2-60,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Aeschynomene,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,XXXII,1
+nifD17-1-1,A-17-1-1,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Desmodium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,XXXII,1
+nifD17-1-60,A-17-1-60,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Desmodium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,XXXII,1
+nifd17-3-1,A-17-3-1,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Desmodium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,XXXII,1
+nifd17-3-3,A-17-3-3,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Desmodium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,XXXII,1
+nifd17-3-4,A-17-3-4,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Desmodium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,XXXII,1
+nifd17-3-10,A-17-3-10,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Desmodium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,XXXII,1
+nifd17-3-19,A-17-3-19,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Desmodium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,XXXII,1
+nifd17-3-21,A-17-3-21,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Desmodium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,XXXII,1
+nifd17-3-27,A-17-3-27,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Desmodium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,XXXII,1
+nifd17-3-31,A-17-3-31,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Desmodium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,XXXII,1
+nifd17-3-33,A-17-3-33,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Desmodium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,XXXII,1
+nifd17-3-40,A-17-3-40,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Desmodium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,XXXII,1
+nifd17-3-46,A-17-3-46,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Desmodium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,XXXII,1
+nifD17-7-32,A-17-7-32,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Macroptilium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,XXXII,1
+nifD17-7-54,A-17-7-54,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Macroptilium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,XXXII,1
+nifD16-53-2a,A-16-53-2a,2016,A,"S30° 2'37.49""/W51° 1'19.42""",55,Macroptilium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,XXXII,1
+nifD16-53-11,A-16-53-11,2016,A,"S30° 2'37.49""/W51° 1'19.42""",55,Macroptilium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,XXXII,1
+nifD16-53-33,A-16-53-33,2016,A,"S30° 2'37.49""/W51° 1'19.42""",55,Macroptilium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,XXXII,1
+nifD16-58-19a,B-16-58-19a,2016,B,"S30° 2'43.10""S /W51° 1'21.90""",55,Stylosanthes,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,XXXII,1
+nifD16-58-32,B-16-58-32,2016,B,"S30° 2'43.10""S /W51° 1'21.90""",55,Stylosanthes,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,XXXII,1
+nifD17-5-58,A-17-5-58,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Desmodium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,XXXIII,1
+nifD17-8-21,B-17-8-21,2017,B,"S30° 2'43.10""S /W51° 1'21.90""",55,Rhynchosia,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,XXXIII,1
+nifD17-1-20,A-17-1-20,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Desmodium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,XXXIV,1
+nifD16-58-20,B-16-58-20,2016,B,"S30° 2'43.10""S /W51° 1'21.90""",55,Stylosanthes,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,XXXIV,1
+nifD17-2-23,A-17-2-23,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Aeschynomene,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,XXXV,1
+nifD17-4-30,A-17-4-30,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Crotalaria,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,XXXV,1
+nifD17-1-18,A-17-1-18,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Desmodium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,XXXV,1
+nifD JS26,F-16-45-26a(2),2016,F,"S29° 4'23.59""S /W50° 3'86.94""",910,Desmodium,nifDf7fo and nifDr1x ,nifDf7fi and nifDr1x,3,nifDf7fo and nifDr1x withnifDf7fi and nifDr1x,XXXVI,1
+nifD16.45.26+Joasia,F-16-45-26b(2),2016,F,"S29° 4'23.59""S /W50° 3'86.94""",910,Desmodium,nifDf7fo and nifDr1x ,nifDf7fi and nifDr1x,3,nifDf7fo and nifDr1x withnifDf7fi and nifDr1x,XXXVI,1
+nifD JS34,F-16-45-34a(2),2016,F,"S29° 4'23.59""S /W50° 3'86.94""",910,Desmodium,nifDf7fo and nifDr1x ,nifDf7fi and nifDr1x,3,nifDf7fo and nifDr1x withnifDf7fi and nifDr1x,XXXVI,1
+nifD16.45.34_Joasia,F-16-45-34b(2),2016,F,"S29° 4'23.59""S /W50° 3'86.94""",910,Desmodium,nifDf7fo and nifDr1x ,nifDf7fi and nifDr1x,3,nifDf7fo and nifDr1x withnifDf7fi and nifDr1x,XXXVI,1
+nifD16.44.48+Joasia,F-16-44-48(2),2016,F,"S29° 4'23.59""S /W50° 3'86.94""",910,Machaerium,nifDf7fo and nifDr1x ,nifDf7fi and nifDr1x,3,nifDf7fo and nifDr1x withnifDf7fi and nifDr1x,XXXVI,1
+nifD16-53-58,A-16-53-58,2016,A,"S30° 2'37.49""/W51° 1'19.42""",55,Macroptilium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,XXXVI,1
+nifD17-4-11,A-17-4-11,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Crotalaria,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,XXXVII,1
+nifD17-4-14,A-17-4-14,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Crotalaria,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,XXXVII,1
+nifD17-4-19,A-17-4-19,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Crotalaria,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,XXXVII,1
+nifD17-4-39,A-17-4-39,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Crotalaria,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,XXXVII,1
+nifD17-4-53,A-17-4-53,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Crotalaria,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,XXXVII,1
+nifD17-4-58,A-17-4-58,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Crotalaria,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,XXXVII,1
+nifD17-4-60,A-17-4-60,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Crotalaria,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,XXXVII,1
+nifD17-1-3,A-17-1-3,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Desmodium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,XXXVII,1
+nifD17-1-24,A-17-1-24,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Desmodium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,XXXVII,1
+nifD17-1-28,A-17-1-28,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Desmodium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,XXXVII,1
+nifD17-5-9,A-17-5-9,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Desmodium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,XXXVII,1
+nifD17-5-25,A-17-5-25,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Desmodium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,XXXVII,1
+nifD17-5-36,A-17-5-36,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Desmodium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,XXXVII,1
+nifD16-58-5,B-16-58-5,2016,B,"S30° 2'43.10""S /W51° 1'21.90""",55,Stylosanthes,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,XXXVII,1
+nifD17-9-5,B-17-9-5,2017,B,"S30° 2'43.10""S /W51° 1'21.90""",55,Acacia,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,XXXVIII,1
+nifD17-9-7,B-17-9-7,2017,B,"S30° 2'43.10""S /W51° 1'21.90""",55,Acacia,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,XXXVIII,1
+nifD17-9-12,B-17-9-12,2017,B,"S30° 2'43.10""S /W51° 1'21.90""",55,Acacia,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,XXXVIII,1
+nifD17-9-14,B-17-9-14,2017,B,"S30° 2'43.10""S /W51° 1'21.90""",55,Acacia,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,XXXVIII,1
+nifD17-9-21,B-17-9-21,2017,B,"S30° 2'43.10""S /W51° 1'21.90""",55,Acacia,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,XXXVIII,1
+nifD17-9-23,B-17-9-23,2017,B,"S30° 2'43.10""S /W51° 1'21.90""",55,Acacia,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,XXXVIII,1
+nifD17-9-36,B-17-9-36,2017,B,"S30° 2'43.10""S /W51° 1'21.90""",55,Acacia,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,XXXVIII,1
+nifD17-9-48,B-17-9-48,2017,B,"S30° 2'43.10""S /W51° 1'21.90""",55,Acacia,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,XXXVIII,1
+nifD17-9-60,B-17-9-60,2017,B,"S30° 2'43.10""S /W51° 1'21.90""",55,Acacia,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,XXXVIII,1
+nifD17-10-11,C-17-10-11,2017,C,"S30° 2'43.94""S /W51° 1'27.70""",48,Acacia,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,XXXVIII,1
+nifD17-10-13,C-17-10-13,2017,C,"S30° 2'43.94""S /W51° 1'27.70""",48,Acacia,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,XXXVIII,1
+nifD17-10-17,C-17-10-17,2017,C,"S30° 2'43.94""S /W51° 1'27.70""",48,Acacia,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,XXXVIII,1
+nifD17-10-21,C-17-10-21,2017,C,"S30° 2'43.94""S /W51° 1'27.70""",48,Acacia,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,XXXVIII,1
+nifD17-10-22,C-17-10-22,2017,C,"S30° 2'43.94""S /W51° 1'27.70""",48,Acacia,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,XXXVIII,1
+nifD17-10-39,C-17-10-39,2017,C,"S30° 2'43.94""S /W51° 1'27.70""",48,Acacia,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,XXXVIII,1
+nifD17-10-45,C-17-10-45,2017,C,"S30° 2'43.94""S /W51° 1'27.70""",48,Acacia,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,XXXVIII,1
+nifD17-2-1,A-17-2-1,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Aeschynomene,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,XXXVIII,1
+nifD17-2-4,A-17-2-4,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Aeschynomene,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,XXXVIII,1
+nifD17-2-5,A-17-2-5,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Aeschynomene,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,XXXVIII,1
+nifD17-2-17,A-17-2-17,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Aeschynomene,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,XXXVIII,1
+nifD17-2-18,A-17-2-18,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Aeschynomene,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,XXXVIII,1
+nifD17-2-21,A-17-2-21,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Aeschynomene,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,XXXVIII,1
+nifD17-2-33,A-17-2-33,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Aeschynomene,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,XXXVIII,1
+nifD17-2-45,A-17-2-45,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Aeschynomene,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,XXXVIII,1
+nifD17-2-52,A-17-2-52,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Aeschynomene,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,XXXVIII,1
+nifD17-2-53,A-17-2-53,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Aeschynomene,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,XXXVIII,1
+nifD17-2-56,A-17-2-56,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Aeschynomene,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,XXXVIII,1
+nifD17-2-10(3),A-17-2-10(3),2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Aeschynomene,nifDfx1 and nifDr1x,nifDfx1 and nifDr1x,4,nifDfx1 and nifDr1xwithnifDfx1 and nifDr1x,XXXVIII,1
+nifD16-1-2,D-16-1-2,2016,D,"S29°24'24.6""S / W49°54'43.3""",15,Chamecrista,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,XXXVIII,1
+nifD16-1-3,D-16-1-3,2016,D,"S29°24'24.6""S / W49°54'43.3""",15,Chamecrista,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,XXXVIII,1
+nifD16-1-4,D-16-1-4,2016,D,"S29°24'24.6""S / W49°54'43.3""",15,Chamecrista,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,XXXVIII,1
+nifD16-1-5a,D-16-1-5a,2016,D,"S29°24'24.6""S / W49°54'43.3""",15,Chamecrista,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,XXXVIII,1
+nifD16-1-5b,D-16-1-5b,2016,D,"S29°24'24.6""S / W49°54'43.3""",15,Chamecrista,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,XXXVIII,1
+nifD16-1-7,D-16-1-7,2016,D,"S29°24'24.6""S / W49°54'43.3""",15,Chamecrista,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,XXXVIII,1
+nifD16-1-8,D-16-1-8,2016,D,"S29°24'24.6""S / W49°54'43.3""",15,Chamecrista,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,XXXVIII,1
+nifD16-1-9a,D-16-1-9a,2016,D,"S29°24'24.6""S / W49°54'43.3""",15,Chamecrista,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,XXXVIII,1
+nifD16-1-9b,D-16-1-9b,2016,D,"S29°24'24.6""S / W49°54'43.3""",15,Chamecrista,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,XXXVIII,1
+nifD16-1-10,D-16-1-10,2016,D,"S29°24'24.6""S / W49°54'43.3""",15,Chamecrista,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,XXXVIII,1
+nifD16-1-11,D-16-1-11,2016,D,"S29°24'24.6""S / W49°54'43.3""",15,Chamecrista,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,XXXVIII,1
+nifD16-1-12,D-16-1-12,2016,D,"S29°24'24.6""S / W49°54'43.3""",15,Chamecrista,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,XXXVIII,1
+nifD16-1-13a,D-16-1-13a,2016,D,"S29°24'24.6""S / W49°54'43.3""",15,Chamecrista,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,XXXVIII,1
+nifD16-1-13b,D-16-1-13b,2016,D,"S29°24'24.6""S / W49°54'43.3""",15,Chamecrista,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,XXXVIII,1
+nifD16-1-14,D-16-1-14,2016,D,"S29°24'24.6""S / W49°54'43.3""",15,Chamecrista,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,XXXVIII,1
+nifD16-1-15a,D-16-1-15a,2016,D,"S29°24'24.6""S / W49°54'43.3""",15,Chamecrista,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,XXXVIII,1
+nifD16-1-15b,D-16-1-15b,2016,D,"S29°24'24.6""S / W49°54'43.3""",15,Chamecrista,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,XXXVIII,1
+nifD16-1-17a,D-16-1-17a,2016,D,"S29°24'24.6""S / W49°54'43.3""",15,Chamecrista,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,XXXVIII,1
+nifD16-1-17b,D-16-1-17b,2016,D,"S29°24'24.6""S / W49°54'43.3""",15,Chamecrista,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,XXXVIII,1
+nifD16-1-18,D-16-1-18,2016,D,"S29°24'24.6""S / W49°54'43.3""",15,Chamecrista,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,XXXVIII,1
+nifD16-1-19a,D-16-1-19a,2016,D,"S29°24'24.6""S / W49°54'43.3""",15,Chamecrista,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,XXXVIII,1
+nifD16-1-19b,D-16-1-19b,2016,D,"S29°24'24.6""S / W49°54'43.3""",15,Chamecrista,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,XXXVIII,1
+nifD16-1-20a,D-16-1-20a,2016,D,"S29°24'24.6""S / W49°54'43.3""",15,Chamecrista,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,XXXVIII,1
+nifD16-1-20b,D-16-1-20b,2016,D,"S29°24'24.6""S / W49°54'43.3""",15,Chamecrista,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,XXXVIII,1
+nifD16-1-21,D-16-1-21,2016,D,"S29°24'24.6""S / W49°54'43.3""",15,Chamecrista,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,XXXVIII,1
+nifD16-1-22a,D-16-1-22a,2016,D,"S29°24'24.6""S / W49°54'43.3""",15,Chamecrista,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,XXXVIII,1
+nifD16-1-23,D-16-1-23,2016,D,"S29°24'24.6""S / W49°54'43.3""",15,Chamecrista,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,XXXVIII,1
+nifD16-1-24,D-16-1-24,2016,D,"S29°24'24.6""S / W49°54'43.3""",15,Chamecrista,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,XXXVIII,1
+nifD16-1-25,D-16-1-25,2016,D,"S29°24'24.6""S / W49°54'43.3""",15,Chamecrista,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,XXXVIII,1
+nifD16-1-27,D-16-1-27,2016,D,"S29°24'24.6""S / W49°54'43.3""",15,Chamecrista,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,XXXVIII,1
+nifD16-1-28,D-16-1-28,2016,D,"S29°24'24.6""S / W49°54'43.3""",15,Chamecrista,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,XXXVIII,1
+nifD16-1-29,D-16-1-29,2016,D,"S29°24'24.6""S / W49°54'43.3""",15,Chamecrista,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,XXXVIII,1
+nifD16-1-30,D-16-1-30,2016,D,"S29°24'24.6""S / W49°54'43.3""",15,Chamecrista,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,XXXVIII,1
+nifD16-1-32,D-16-1-32,2016,D,"S29°24'24.6""S / W49°54'43.3""",15,Chamecrista,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,XXXVIII,1
+nifD16-1-33,D-16-1-33,2016,D,"S29°24'24.6""S / W49°54'43.3""",15,Chamecrista,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,XXXVIII,1
+nifD16-1-34,D-16-1-34,2016,D,"S29°24'24.6""S / W49°54'43.3""",15,Chamecrista,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,XXXVIII,1
+nifD16-1-35,D-16-1-35,2016,D,"S29°24'24.6""S / W49°54'43.3""",15,Chamecrista,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,XXXVIII,1
+nifD16-1-37,D-16-1-37,2016,D,"S29°24'24.6""S / W49°54'43.3""",15,Chamecrista,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,XXXVIII,1
+nifD16-1-39,D-16-1-39,2016,D,"S29°24'24.6""S / W49°54'43.3""",15,Chamecrista,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,XXXVIII,1
+nifD16-1-43,D-16-1-43,2016,D,"S29°24'24.6""S / W49°54'43.3""",15,Chamecrista,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,XXXVIII,1
+nifD16-1-44,D-16-1-44,2016,D,"S29°24'24.6""S / W49°54'43.3""",15,Chamecrista,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,XXXVIII,1
+nifD16-1-46,D-16-1-46,2016,D,"S29°24'24.6""S / W49°54'43.3""",15,Chamecrista,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,XXXVIII,1
+nifD16-1-49,D-16-1-49,2016,D,"S29°24'24.6""S / W49°54'43.3""",15,Chamecrista,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,XXXVIII,1
+nifD16-1-50,D-16-1-50,2016,D,"S29°24'24.6""S / W49°54'43.3""",15,Chamecrista,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,XXXVIII,1
+nifD16-1-51,D-16-1-51,2016,D,"S29°24'24.6""S / W49°54'43.3""",15,Chamecrista,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,XXXVIII,1
+nifD16-1-52,D-16-1-52,2016,D,"S29°24'24.6""S / W49°54'43.3""",15,Chamecrista,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,XXXVIII,1
+nifD16-1-54,D-16-1-54,2016,D,"S29°24'24.6""S / W49°54'43.3""",15,Chamecrista,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,XXXVIII,1
+nifD16-1-55,D-16-1-55,2016,D,"S29°24'24.6""S / W49°54'43.3""",15,Chamecrista,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,XXXVIII,1
+nifD16-1-56,D-16-1-56,2016,D,"S29°24'24.6""S / W49°54'43.3""",15,Chamecrista,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,XXXVIII,1
+nifD16-1-57,D-16-1-57,2016,D,"S29°24'24.6""S / W49°54'43.3""",15,Chamecrista,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,XXXVIII,1
+nifD16-1-58,D-16-1-58,2016,D,"S29°24'24.6""S / W49°54'43.3""",15,Chamecrista,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,XXXVIII,1
+nifD16-1-59,D-16-1-59,2016,D,"S29°24'24.6""S / W49°54'43.3""",15,Chamecrista,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,XXXVIII,1
+nifD16-1-60,D-16-1-60,2016,D,"S29°24'24.6""S / W49°54'43.3""",15,Chamecrista,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,XXXVIII,1
+nifD17-4-2,A-17-4-2,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Crotalaria,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,XXXVIII,1
+nifD17-4-3,A-17-4-3,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Crotalaria,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,XXXVIII,1
+nifD17-4-5,A-17-4-5,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Crotalaria,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,XXXVIII,1
+nifD17-4-9,A-17-4-9,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Crotalaria,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,XXXVIII,1
+nifD17-4-12,A-17-4-12,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Crotalaria,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,XXXVIII,1
+nifD17-4-17,A-17-4-17,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Crotalaria,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,XXXVIII,1
+nifD17-4-20,A-17-4-20,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Crotalaria,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,XXXVIII,1
+nifD17-4-21,A-17-4-21,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Crotalaria,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,XXXVIII,1
+nifD17-4-24,A-17-4-24,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Crotalaria,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,XXXVIII,1
+nifD17-4-28,A-17-4-28,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Crotalaria,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,XXXVIII,1
+nifD17-4-29,A-17-4-29,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Crotalaria,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,XXXVIII,1
+nifD17-4-33,A-17-4-33,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Crotalaria,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,XXXVIII,1
+nifD17-4-36,A-17-4-36,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Crotalaria,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,XXXVIII,1
+nifD17-4-37,A-17-4-37,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Crotalaria,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,XXXVIII,1
+nifD17-4-42,A-17-4-42,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Crotalaria,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,XXXVIII,1
+nifD17-4-44,A-17-4-44,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Crotalaria,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,XXXVIII,1
+nifD17-4-51,A-17-4-51,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Crotalaria,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,XXXVIII,1
+nifD17-11-17,C-17-11-17,2017,C,"S30° 2'43.94""S /W51° 1'27.70""",48,Desmodium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,XXXVIII,1
+nifD17-11-49,C-17-11-49,2017,C,"S30° 2'43.94""S /W51° 1'27.70""",48,Desmodium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,XXXVIII,1
+nifD17-1-6,A-17-1-6,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Desmodium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,XXXVIII,1
+nifD17-1-14,A-17-1-14,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Desmodium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,XXXVIII,1
+nifD17-1-23,A-17-1-23,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Desmodium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,XXXVIII,1
+nifD17-1-32,A-17-1-32,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Desmodium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,XXXVIII,1
+nifD17-1-38,A-17-1-38,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Desmodium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,XXXVIII,1
+nifD17-1-44,A-17-1-44,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Desmodium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,XXXVIII,1
+nifD17-1-46,A-17-1-46,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Desmodium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,XXXVIII,1
+nifD17-1-52,A-17-1-52,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Desmodium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,XXXVIII,1
+nifD17-1-54,A-17-1-54,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Desmodium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,XXXVIII,1
+nifD17-1-57,A-17-1-57,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Desmodium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,XXXVIII,1
+nifD17-1-58,A-17-1-58,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Desmodium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,XXXVIII,1
+nifd17-3-36,A-17-3-36,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Desmodium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,XXXVIII,1
+nifd17-3-37,A-17-3-37,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Desmodium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,XXXVIII,1
+nifd17-3-48,A-17-3-48,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Desmodium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,XXXVIII,1
+nifd17-3-52,A-17-3-52,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Desmodium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,XXXVIII,1
+nifd17-3-54,A-17-3-54,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Desmodium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,XXXVIII,1
+nifd17-3-55,A-17-3-55,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Desmodium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,XXXVIII,1
+nifd17-3-58,A-17-3-58,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Desmodium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,XXXVIII,1
+nifd17-3-60,A-17-3-60,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Desmodium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,XXXVIII,1
+nifD17-5-3,A-17-5-3,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Desmodium,TSnifDf1 and TSnifDr2,TSnifDf1 and TSnifDr3,5,TSnifDf1 and TSnifDr2withTSnifDf1 and TSnifDr3,XXXVIII,1
+nifD17-5-5,A-17-5-5,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Desmodium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,XXXVIII,1
+nifD17-5-7,A-17-5-7,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Desmodium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,XXXVIII,1
+nifD17-5-8,A-17-5-8,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Desmodium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,XXXVIII,1
+nifD17-5-14,A-17-5-14,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Desmodium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,XXXVIII,1
+nifD17-5-15,A-17-5-15,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Desmodium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,XXXVIII,1
+nifD17-5-16,A-17-5-16,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Desmodium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,XXXVIII,1
+nifD17-5-18,A-17-5-18,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Desmodium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,XXXVIII,1
+nifD17-5-19,A-17-5-19,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Desmodium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,XXXVIII,1
+nifD17-5-23,A-17-5-23,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Desmodium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,XXXVIII,1
+nifD17-5-24,A-17-5-24,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Desmodium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,XXXVIII,1
+nifD17-5-32,A-17-5-32,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Desmodium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,XXXVIII,1
+nifD17-5-39,A-17-5-39,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Desmodium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,XXXVIII,1
+nifD17-5-43,A-17-5-43,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Desmodium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,XXXVIII,1
+nifD17-5-48,A-17-5-48,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Desmodium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,XXXVIII,1
+nifD17-5-54,A-17-5-54,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Desmodium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,XXXVIII,1
+nifD17-5-59,A-17-5-59,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Desmodium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,XXXVIII,1
+nifD17-7-8,A-17-7-8,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Macroptilium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,XXXVIII,1
+nifD17-7-18,A-17-7-18,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Macroptilium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,XXXVIII,1
+nifD17-7-41,A-17-7-41,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Macroptilium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,XXXVIII,1
+nifD17-7-51,A-17-7-51,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Macroptilium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,XXXVIII,1
+nifD17-7-59,A-17-7-59,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Macroptilium,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,XXXVIII,1
+nifD17-6-1,A-17-6-1,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Rhynchosia,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,XXXVIII,1
+nifD17-6-23,A-17-6-23,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Rhynchosia,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,XXXVIII,1
+nifD17-6-32,A-17-6-32,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Rhynchosia,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,XXXVIII,1
+nifD17-6-33,A-17-6-33,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Rhynchosia,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,XXXVIII,1
+nifD17-6-36,A-17-6-36,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Rhynchosia,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,XXXVIII,1
+nifD17-6-38,A-17-6-38,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Rhynchosia,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,XXXVIII,1
+nifD17-6-49,A-17-6-49,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Rhynchosia,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,XXXVIII,1
+nifD17-6-56,A-17-6-56,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Rhynchosia,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,XXXVIII,1
+nifD17-6-57,A-17-6-57,2017,A,"S30° 2'37.49""/W51° 1'19.42""",55,Rhynchosia,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,XXXVIII,1
+nifD17-8-15,B-17-8-15,2017,B,"S30° 2'43.10""S /W51° 1'21.90""",55,Rhynchosia,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,XXXVIII,1
+nifD17-8-23,B-17-8-23,2017,B,"S30° 2'43.10""S /W51° 1'21.90""",55,Rhynchosia,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,XXXVIII,1
+nifD17-8-27,B-17-8-27,2017,B,"S30° 2'43.10""S /W51° 1'21.90""",55,Rhynchosia,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,XXXVIII,1
+nifD17-8-31,B-17-8-31,2017,B,"S30° 2'43.10""S /W51° 1'21.90""",55,Rhynchosia,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,XXXVIII,1
+nifD17-8-33,B-17-8-33,2017,B,"S30° 2'43.10""S /W51° 1'21.90""",55,Rhynchosia,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,XXXVIII,1
+nifD17-8-41,B-17-8-41,2017,B,"S30° 2'43.10""S /W51° 1'21.90""",55,Rhynchosia,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,XXXVIII,1
+nifD17-8-42,B-17-8-42,2017,B,"S30° 2'43.10""S /W51° 1'21.90""",55,Rhynchosia,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,XXXVIII,1
+nifD17-8-53,B-17-8-53,2017,B,"S30° 2'43.10""S /W51° 1'21.90""",55,Rhynchosia,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,XXXVIII,1
+nifD17-8-57,B-17-8-57,2017,B,"S30° 2'43.10""S /W51° 1'21.90""",55,Rhynchosia,TSnifDf1 and TSnifDr1,TSnifDf1 and TSnifDr2,1,TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2,XXXVIII,1

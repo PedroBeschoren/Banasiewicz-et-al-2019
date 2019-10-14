@@ -14,7 +14,7 @@
    version="1.1"
    id="svg2"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="FINAL priemr per clade.svg">
+   sodipodi:docname="Primer Mosaic.svg">
   <metadata
      id="metadata1695">
     <rdf:RDF>
@@ -23,7 +23,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -40,9 +40,9 @@
      inkscape:window-height="559"
      id="namedview1693"
      showgrid="false"
-     inkscape:zoom="0.36130528"
-     inkscape:cx="388.10911"
-     inkscape:cy="248.29098"
+     inkscape:zoom="0.51096283"
+     inkscape:cx="526.72596"
+     inkscape:cy="489.45048"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
@@ -10468,42 +10468,5 @@
          width="100%"
          height="100%" />
     </g>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:9px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="170.1927"
-       y="805.9707"
-       id="text9240"
-       sodipodi:linespacing="125%"
-       inkscape:export-xdpi="600"
-       inkscape:export-ydpi="600"><tspan
-         sodipodi:role="line"
-         id="tspan9242"
-         x="170.1927"
-         y="805.9707">*  internal.external: </tspan><tspan
-         sodipodi:role="line"
-         x="170.1927"
-         y="817.2207"
-         id="tspan9244">1: TSnifDf1 and TSnifDr1withTSnifDf1 and TSnifDr2 </tspan><tspan
-         sodipodi:role="line"
-         x="170.1927"
-         y="828.4707"
-         id="tspan9246">2: nifDf5fo and nifDr1x withnifDf5fis and nifDr1x </tspan><tspan
-         sodipodi:role="line"
-         x="170.1927"
-         y="839.7207"
-         id="tspan9248">3: nifDf7fo and nifDr1x withnifDf7fi and nifDr1x</tspan><tspan
-         sodipodi:role="line"
-         x="170.1927"
-         y="850.9707"
-         id="tspan9250">4: nifDfx1 and nifDr1xwithnifDfx1 and nifDr1x</tspan><tspan
-         sodipodi:role="line"
-         x="170.1927"
-         y="862.2207"
-         id="tspan9252">5 TSnifDf1 and TSnifDr2withTSnifDf1 and TSnifDr3</tspan><tspan
-         sodipodi:role="line"
-         x="170.1927"
-         y="873.4707"
-         id="tspan9254" /></text>
   </g>
 </svg>

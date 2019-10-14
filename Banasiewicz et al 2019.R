@@ -117,7 +117,7 @@ anova(bd)# test homogeniety of variances, akin to a multivariate leneve test for
 permutest(bd)# test homogeniety of variances, akin to a multivariate leneve test for homogeniety of variances
 
 #run and check PERMANOVA
-pmv<-adonis(FUllWithSoil_spread_united^0.5 ~ Soil.data + Legume.species, data=OrdiantionFactos, permutations=999, method="bray")
+pmv<-adonis(FUllWithSoil_spread_united^0.5 ~ Soil.data + Legume.species, data=OrdiantionFactos, permutations=9999, method="bray")
 pmv
 ##RESULT:###### valid and Significant soil + LEGUME  tests# THERE ARE SOIL EFFECTS, INDEPENDENT OF LEGUME EFFECTS
 
@@ -126,6 +126,7 @@ pmv
 #CalculateNMDS NMDS NifD sequences slit by soil and legume
 NifDNMDS<-metaMDS (FUllWithSoil_spread_united) #metaMDS automatically square roots transforms and uses bray-curtis
 stressplot(NifDNMDS) # check stress
+mean(goodness(NifDNMDS))# check stress
 plot(NifDNMDS) #circle = site, red cross = sp
 ordiplot(NifDNMDS,type="n")
 orditorp(NifDNMDS,display="species",col="red",air=0.01, cex=0.7, pcex=0)
